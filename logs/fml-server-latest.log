@@ -1,0 +1,1189 @@
+[19:32:20] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[19:32:20] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[19:32:20] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_221
+[19:32:20] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[19:32:20] [main/DEBUG] [FML/]: Java library path at launch is C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\ZeroTier\One\;C:\Program Files\Git\cmd;C:\Users\a1225\AppData\Local\Microsoft\WindowsApps;;.
+[19:32:20] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[19:32:20] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[19:32:20] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[19:32:20] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[19:32:20] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[19:32:20] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[19:32:20] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[19:32:20] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[19:32:20] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\a1225\OneDrive\桌面\MC抖M\.
+[19:32:20] [main/DEBUG] [FML/]: Discovering coremods
+[19:32:20] [main/DEBUG] [FML/]: Examining for coremod candidacy 1.7.10-TerraFirmaCraft-0.79.30.925.jar
+[19:32:20] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in 1.7.10-TerraFirmaCraft-0.79.30.925.jar, it will be examined later for regular @Mod instances
+[19:32:20] [main/DEBUG] [FML/]: Instantiating coremod class TFCASMLoadingPlugin
+[19:32:20] [main/WARN] [FML/]: The coremod com.bioxx.tfc.TFCASMLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:32:20] [main/DEBUG] [FML/]: Enqueued coremod TFCASMLoadingPlugin
+[19:32:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:32:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[19:32:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:32:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:32:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:32:20] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[19:32:20] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[19:32:20] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[19:32:20] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[19:32:20] [main/DEBUG] [FML/]: Injection complete
+[19:32:20] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[19:32:20] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[19:32:21] [main/DEBUG] [FML/]: Read 527 binary patches
+[19:32:22] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:32:22] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[19:32:22] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:32:22] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[19:32:22] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[19:32:22] [main/DEBUG] [FML/]: Injection complete
+[19:32:22] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[19:32:22] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[19:32:22] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[19:32:22] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:32:22] [main/DEBUG] [FML/]: Injecting coremod TFCASMLoadingPlugin {com.bioxx.tfc.TFCASMLoadingPlugin} class transformers
+[19:32:22] [main/TRACE] [FML/]: Registering transformer com.bioxx.tfc.ASM.Transform.TF_EntityRenderer
+[19:32:23] [main/TRACE] [FML/]: Registering transformer com.bioxx.tfc.ASM.Transform.TF_RenderGlobal
+[19:32:23] [main/TRACE] [FML/]: Registering transformer com.bioxx.tfc.ASM.Transform.TF_EntityLeashKnot
+[19:32:23] [main/TRACE] [FML/]: Registering transformer com.bioxx.tfc.ASM.Transform.TF_EntityPlayerMP
+[19:32:23] [main/TRACE] [FML/]: Registering transformer com.bioxx.tfc.ASM.Transform.TF_EntityPlayer
+[19:32:23] [main/DEBUG] [FML/]: Injection complete
+[19:32:23] [main/DEBUG] [FML/]: Running coremod plugin for TFCASMLoadingPlugin {com.bioxx.tfc.TFCASMLoadingPlugin}
+[19:32:23] [main/DEBUG] [FML/]: Running coremod plugin TFCASMLoadingPlugin
+[19:32:23] [main/DEBUG] [FML/]: Coremod plugin class TFCASMLoadingPlugin run successfully
+[19:32:23] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[19:32:23] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[19:32:23] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[19:32:23] [main/DEBUG] [FML/]: Loaded 20 rules from AccessTransformer mod jar file C:\Users\a1225\OneDrive\桌面\MC抖M\mods\1.7.10-TerraFirmaCraft-0.79.30.925.jar!META-INF/tfc_at.cfg
+
+[19:32:23] [main/DEBUG] [FML/]: Validating minecraft
+[19:32:24] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[19:32:24] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[19:32:24] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[19:32:24] [main/INFO] [TerraFirmaCraft ASM/]: Attempting to Transform: yz | Found 2 injections
+[19:32:24] [main/INFO] [TerraFirmaCraft ASM/]: Inserted: yz : {e | (FF)V}
+[19:32:24] [main/INFO] [TerraFirmaCraft ASM/]: Attempting to Transform: yz Complete
+[19:32:24] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:32:25] [main/INFO] [TerraFirmaCraft ASM/]: Attempting to Transform: mw | Found 1 injections
+[19:32:25] [main/INFO] [TerraFirmaCraft ASM/]: Inserted: mw : {i | ()V}
+[19:32:25] [main/INFO] [TerraFirmaCraft ASM/]: Attempting to Transform: mw Complete
+[19:32:25] [main/INFO] [TerraFirmaCraft ASM/]: Attempting to Transform: su | Found 1 injections
+[19:32:25] [main/INFO] [TerraFirmaCraft ASM/]: Inserted: su : {e | ()Z}
+[19:32:25] [main/INFO] [TerraFirmaCraft ASM/]: Attempting to Transform: su Complete
+[19:32:26] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[19:32:26] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[19:32:27] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[19:32:27] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[19:32:27] [Server thread/DEBUG] [FML/]: File C:\Users\a1225\OneDrive\桌面\MC抖M\config\injectedDependencies.json not found. No dependencies injected
+[19:32:27] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, com.bioxx.tfc.TerraFirmaCraftCore]
+[19:32:27] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[19:32:27] [Server thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\a1225\OneDrive\桌面\MC抖M\forge-1.7.10-10.13.4.1614-1.7.10-universal.jar, examining for mod candidates
+[19:32:27] [Server thread/TRACE] [FML/]: Skipping known library file C:\Users\a1225\OneDrive\桌面\MC抖M\mods\1.7.10-TerraFirmaCraft-0.79.30.925.jar
+[19:32:27] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[19:32:27] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[19:32:27] [Server thread/INFO] [FML/]: Searching C:\Users\a1225\OneDrive\桌面\MC抖M\mods for mods
+[19:32:27] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file 1.7.10-TerraFirmaCraft-0.79.30.925.jar
+[19:32:27] [Server thread/DEBUG] [FML/]: Examining file forge-1.7.10-10.13.4.1614-1.7.10-universal.jar for potential mods
+[19:32:27] [Server thread/DEBUG] [FML/]: The mod container forge-1.7.10-10.13.4.1614-1.7.10-universal.jar appears to be missing an mcmod.info file
+[19:32:27] [Server thread/DEBUG] [FML/]: Examining file 1.7.10-TerraFirmaCraft-0.79.30.925.jar for potential mods
+[19:32:27] [Server thread/TRACE] [FML/]: Located mcmod.info file in file 1.7.10-TerraFirmaCraft-0.79.30.925.jar
+[19:32:28] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.bioxx.tfc.TerraFirmaCraft) - loading
+[19:32:28] [Server thread/TRACE] [terrafirmacraft/]: Using mcmod dependency info : [] [Forge@[10.13.4.1448,)] []
+[19:32:28] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[19:32:28] [Server thread/TRACE] [FML/]: Received a system property request ''
+[19:32:28] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[19:32:28] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[19:32:28] [Server thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1614-1.7.10-universal.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[19:32:28] [Server thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1614-1.7.10-universal.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[19:32:28] [Server thread/DEBUG] [terrafirmacraft/]: Enabling mod terrafirmacraft
+[19:32:28] [Server thread/DEBUG] [FML/]: Found translations in 1.7.10-TerraFirmaCraft-0.79.30.925.jar [es_UY, en_US, nl_NL, ro_RO, es_VE, fr_CA, da_DK, tr_TR, pt_PT, ja_JP, zh_CN, it_IT, en_CA, zh_TW, ko_KR, zh_HK, en_GB, hu_HU, es_AR, ru_RU, pt_BR, es_MX, fi_FI, fr_FR, de_DE, es_ES]
+[19:32:28] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[19:32:28] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[19:32:28] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[19:32:28] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[19:32:28] [Server thread/DEBUG] [FML/]: Mod sorting data
+[19:32:28] [Server thread/DEBUG] [FML/]: 	terrafirmacraft(TerraFirmaCraft:0.79.29): 1.7.10-TerraFirmaCraft-0.79.30.925.jar ()
+[19:32:28] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[19:32:28] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[19:32:28] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[19:32:28] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[19:32:28] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[19:32:28] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[19:32:28] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.10.99.99)
+[19:32:28] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, tfc_coremod, terrafirmacraft] at CLIENT
+[19:32:28] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, tfc_coremod, terrafirmacraft] at SERVER
+[19:32:29] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.305s
+[19:32:29] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[19:32:29] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[19:32:29] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[19:32:29] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.13.4.1614)
+[19:32:29] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.009s
+[19:32:29] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLConstructionEvent to mod tfc_coremod
+[19:32:29] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLConstructionEvent to mod tfc_coremod
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: Construction - TFC[coremod] took 0.001s
+[19:32:29] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLConstructionEvent to mod terrafirmacraft
+[19:32:29] [Server thread/TRACE] [FML/terrafirmacraft]: Mod terrafirmacraft is using network checker : Accepting version 0.79.29
+[19:32:29] [Server thread/TRACE] [FML/terrafirmacraft]: Testing mod terrafirmacraft to verify it accepts its own version in a remote connection
+[19:32:29] [Server thread/TRACE] [FML/terrafirmacraft]: The mod terrafirmacraft accepts its own version (0.79.29)
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Attempting to inject @SidedProxy classes into terrafirmacraft
+[19:32:29] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLConstructionEvent to mod terrafirmacraft
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: Construction - TerraFirmaCraft took 0.059s
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.374s
+[19:32:29] [Server thread/DEBUG] [FML/]: Mod signature data
+[19:32:29] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[19:32:29] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	7.10.99.99)	forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[19:32:29] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	10.13.4.1614)	forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[19:32:29] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[19:32:29] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[19:32:29] [Server thread/DEBUG] [FML/]: 		tfc_coremod	(TFC[coremod]	0.79.29)	minecraft.jar
+[19:32:29] [Server thread/DEBUG] [FML/]: 		terrafirmacraft	(TerraFirmaCraft	0.79.29)	1.7.10-TerraFirmaCraft-0.79.30.925.jar
+[19:32:29] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[19:32:29] [Server thread/INFO] [FML/]: Found 338 ObjectHolder annotations
+[19:32:29] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[19:32:29] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[19:32:29] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[19:32:29] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[19:32:29] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[19:32:29] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.001s
+[19:32:29] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[19:32:29] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[19:32:29] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.044s
+[19:32:29] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLPreInitializationEvent to mod tfc_coremod
+[19:32:29] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLPreInitializationEvent to mod tfc_coremod
+[19:32:29] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - TFC[coremod] took 0.000s
+[19:32:29] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLPreInitializationEvent to mod terrafirmacraft
+[19:32:29] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Loading TFCConfig
+[19:32:29] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Loading Blocks
+[19:32:29] [Server thread/TRACE] [FML/terrafirmacraft]: Automatically registered mod terrafirmacraft entity javelin as terrafirmacraft.javelin
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntitySquidTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityCowTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityWolfTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityBear
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityChickenTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityPigTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityDeer
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.EntityCustomMinecart
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntitySkeletonTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityZombieTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntitySpiderTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntitySlimeTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntitySilverfishTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityGhastTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityCaveSpiderTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityBlazeTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityEndermanTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityPigZombieTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityIronGolemTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityCreeperTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.EntityStand
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityPheasantTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.Mobs.EntityFishTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.EntityFallingBlockTFC
+[19:32:29] [Server thread/DEBUG] [FML/terrafirmacraft]: Skipping automatic mod terrafirmacraft entity registration for already registered class com.bioxx.tfc.Entities.EntityBarrel
+[19:32:29] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Loading Items
+[19:32:30] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Registering Items
+[19:32:30] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Registering Food
+[19:32:30] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Registering Armor
+[19:32:30] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: All Items Registered
+[19:32:30] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Finished Loading Items
+[19:32:30] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLPreInitializationEvent to mod terrafirmacraft
+[19:32:30] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - TerraFirmaCraft took 1.326s
+[19:32:30] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 1.371s
+[19:32:30] [Server thread/INFO] [FML/]: Applying holder lookups
+[19:32:30] [Server thread/INFO] [FML/]: Holder lookups applied
+[19:32:30] [Server thread/INFO] [FML/]: Injecting itemstacks
+[19:32:30] [Server thread/INFO] [FML/]: Itemstack injection complete
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLInitializationEvent to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLInitializationEvent to mod tfc_coremod
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - TFC[coremod] took 0.000s
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLInitializationEvent to mod terrafirmacraft
+[19:32:31] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Loading TFCCrafting
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLInitializationEvent to mod terrafirmacraft
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - TerraFirmaCraft took 0.280s
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.282s
+[19:32:31] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.002s
+[19:32:31] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[19:32:31] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[19:32:31] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event IMCEvent to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event IMCEvent to mod tfc_coremod
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - TFC[coremod] took 0.000s
+[19:32:31] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod terrafirmacraft
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event IMCEvent to mod terrafirmacraft
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event IMCEvent to mod terrafirmacraft
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - TerraFirmaCraft took 0.000s
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.003s
+[19:32:31] [Server thread/INFO] [FML/]: Injecting itemstacks
+[19:32:31] [Server thread/INFO] [FML/]: Itemstack injection complete
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.001s
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.001s
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.012s
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLPostInitializationEvent to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLPostInitializationEvent to mod tfc_coremod
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - TFC[coremod] took 0.000s
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLPostInitializationEvent to mod terrafirmacraft
+[19:32:31] [Server thread/INFO] [TerraFirmaCraft/terrafirmacraft]: Loading TFCOres
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLPostInitializationEvent to mod terrafirmacraft
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - TerraFirmaCraft took 0.006s
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.020s
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.001s
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("Before", UNKNOWN, )
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[19:32:31] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[19:32:31] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.013s
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLLoadCompleteEvent to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLLoadCompleteEvent to mod tfc_coremod
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - TFC[coremod] took 0.000s
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLLoadCompleteEvent to mod terrafirmacraft
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLLoadCompleteEvent to mod terrafirmacraft
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - TerraFirmaCraft took 0.000s
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.015s
+[19:32:31] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[19:32:31] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[19:32:31] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[19:32:31] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.001s
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.001s
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLServerAboutToStartEvent to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLServerAboutToStartEvent to mod tfc_coremod
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - TFC[coremod] took 0.001s
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLServerAboutToStartEvent to mod terrafirmacraft
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLServerAboutToStartEvent to mod terrafirmacraft
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - TerraFirmaCraft took 0.001s
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.003s
+[19:32:31] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[19:32:31] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[19:32:31] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[19:32:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[19:32:31] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[19:32:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.002s
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLModIdMappingEvent to mod tfc_coremod
+[19:32:31] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLModIdMappingEvent to mod tfc_coremod
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - TFC[coremod] took 0.000s
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLModIdMappingEvent to mod terrafirmacraft
+[19:32:31] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLModIdMappingEvent to mod terrafirmacraft
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - TerraFirmaCraft took 0.000s
+[19:32:31] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.003s
+[19:32:31] [Server thread/INFO] [FML/]: Applying holder lookups
+[19:32:31] [Server thread/INFO] [FML/]: Holder lookups applied
+[19:32:31] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:ryewhiskey has been selected as the default fluid for ryewhiskey
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:saltwater has been selected as the default fluid for saltwater
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:beer has been selected as the default fluid for beer
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:sake has been selected as the default fluid for sake
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:milkvinegar has been selected as the default fluid for milkvinegar
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:cornwhiskey has been selected as the default fluid for cornwhiskey
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:brine has been selected as the default fluid for brine
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:cider has been selected as the default fluid for cider
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:rum has been selected as the default fluid for rum
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:freshwater has been selected as the default fluid for freshwater
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:milk has been selected as the default fluid for milk
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:vinegar has been selected as the default fluid for vinegar
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:vodka has been selected as the default fluid for vodka
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:whiskey has been selected as the default fluid for whiskey
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:milkcurdled has been selected as the default fluid for milkcurdled
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:oliveoil has been selected as the default fluid for oliveoil
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:hotwater has been selected as the default fluid for hotwater
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:lavatfc has been selected as the default fluid for lavatfc
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:tannin has been selected as the default fluid for tannin
+[19:32:31] [Server thread/DEBUG] [FML/]: The fluid terrafirmacraft:limewater has been selected as the default fluid for limewater
+[19:32:31] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5998f925)
+[19:32:31] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5998f925)
+[19:32:32] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5998f925)
+[19:32:33] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[19:32:33] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[19:32:33] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[19:32:33] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[19:32:33] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[19:32:33] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[19:32:33] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLServerStartingEvent to mod tfc_coremod
+[19:32:33] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLServerStartingEvent to mod tfc_coremod
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - TFC[coremod] took 0.000s
+[19:32:33] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLServerStartingEvent to mod terrafirmacraft
+[19:32:33] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLServerStartingEvent to mod terrafirmacraft
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - TerraFirmaCraft took 0.021s
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.025s
+[19:32:33] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[19:32:33] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[19:32:33] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[19:32:33] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.001s
+[19:32:33] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[19:32:33] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[19:32:33] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLServerStartedEvent to mod tfc_coremod
+[19:32:33] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLServerStartedEvent to mod tfc_coremod
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - TFC[coremod] took 0.000s
+[19:32:33] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLServerStartedEvent to mod terrafirmacraft
+[19:32:33] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLServerStartedEvent to mod terrafirmacraft
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - TerraFirmaCraft took 0.001s
+[19:32:33] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.002s
+[19:33:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:34:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:34:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:35:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:36:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:37:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:37:04] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:37:04] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[19:37:04] [Netty IO #2/TRACE] [FML/]: $ModList:12 mods->FMLHandshakeServerState$2:HELLO
+[19:37:04] [Netty IO #2/INFO] [FML/]: Client attempting to join with 12 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,FastCraft@1.25,Forge@10.13.4.1614,mcp@9.05,journeymap@5.1.4p2,craftguide@1.6.8.2
+[19:37:04] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[19:37:04] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:37:04] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:37:04] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:37:04] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:37:04] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:37:05] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[19:37:05] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[19:37:05] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[19:37:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:38:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:39:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:40:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:40:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:41:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:42:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:43:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:43:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:44:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:45:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:46:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:46:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:47:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:48:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:48:37] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:48:37] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[19:48:37] [Netty IO #4/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[19:48:37] [Netty IO #4/INFO] [FML/]: Client attempting to join with 7 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,Forge@10.13.4.1614,mcp@9.05
+[19:48:37] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[19:48:37] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:48:37] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:48:37] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:48:37] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:48:37] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:48:37] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[19:48:37] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[19:48:37] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[19:49:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:49:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:50:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:51:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:52:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:52:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:53:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:54:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:55:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:55:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:56:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:57:17] [Netty IO #5/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:57:17] [Netty IO #5/INFO] [FML/]: Client protocol version 2
+[19:57:17] [Netty IO #5/TRACE] [FML/]: $ModList:12 mods->FMLHandshakeServerState$2:HELLO
+[19:57:17] [Netty IO #5/INFO] [FML/]: Client attempting to join with 12 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,FML@7.10.99.99,terrafirmacraft@0.79.29,XaeroWorldMap@1.4.10.1,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,xaerominimap@1.18,mcp@9.05,DamageIndicatorsMod@3.3.2
+[19:57:17] [Netty IO #5/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[19:57:18] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:57:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:57:18] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:57:18] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:57:18] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[19:57:18] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[19:57:18] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[19:57:18] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[19:57:18] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:58:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:58:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:59:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:00:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:01:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:01:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:02:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:03:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:04:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:04:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:05:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:06:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:07:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:07:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:08:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:09:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:10:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:10:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:11:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:12:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:13:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:13:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:14:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:15:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:16:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:16:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:17:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:18:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:19:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:19:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:20:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:21:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:22:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:22:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:23:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:24:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:25:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:25:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:26:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:27:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:28:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:28:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:29:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:30:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:31:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:31:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:32:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:33:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:34:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:34:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:35:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:36:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:37:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:37:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:38:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:39:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:40:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:40:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:41:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:42:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:43:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:43:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:44:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:45:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:46:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:46:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:47:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:48:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:49:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:49:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:50:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:51:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:52:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:52:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:53:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:54:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:55:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:55:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:56:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:57:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:58:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:58:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:59:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:00:15] [Netty IO #8/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:00:15] [Netty IO #8/INFO] [FML/]: Client protocol version 2
+[21:00:15] [Netty IO #8/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[21:00:15] [Netty IO #8/INFO] [FML/]: Client attempting to join with 7 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,Forge@10.13.4.1614,mcp@9.05
+[21:00:15] [Netty IO #8/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[21:00:15] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:00:15] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:00:15] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:00:15] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[21:00:15] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:00:15] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[21:00:15] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[21:00:15] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[21:00:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:01:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:01:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:02:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:03:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:04:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:04:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:05:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:06:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:07:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:07:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:08:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:09:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:10:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:10:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:11:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:12:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:13:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:13:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:14:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:15:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:16:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:16:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:17:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:18:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:19:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:19:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:20:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:21:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:22:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:22:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:23:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:24:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:25:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:25:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:26:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:27:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:28:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:28:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:29:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:30:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:31:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:31:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:32:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:33:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:34:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:34:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:35:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:36:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:37:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:37:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:38:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:39:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:40:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:40:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:41:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:42:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:43:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:43:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:44:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:45:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:46:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:46:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:47:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:48:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:49:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:49:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:50:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:51:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:52:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:52:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:53:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:54:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:55:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:55:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:56:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:57:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:58:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:58:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:59:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:00:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:01:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:01:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:02:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:03:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:04:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:04:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:05:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:06:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:07:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:07:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:08:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:09:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:10:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:10:08] [Netty IO #9/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:10:08] [Netty IO #9/INFO] [FML/]: Client protocol version 2
+[22:10:08] [Netty IO #9/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[22:10:08] [Netty IO #9/INFO] [FML/]: Client attempting to join with 8 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,mcp@9.05
+[22:10:08] [Netty IO #9/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[22:10:08] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:10:08] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:10:08] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:10:08] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:10:08] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[22:10:08] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[22:10:08] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[22:10:08] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:10:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:11:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:12:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:13:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:13:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:14:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:15:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:15:36] [Netty IO #10/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:15:36] [Netty IO #10/INFO] [FML/]: Client protocol version 2
+[22:15:36] [Netty IO #10/TRACE] [FML/]: $ModList:12 mods->FMLHandshakeServerState$2:HELLO
+[22:15:36] [Netty IO #10/INFO] [FML/]: Client attempting to join with 12 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,FastCraft@1.25,Forge@10.13.4.1614,mcp@9.05,journeymap@5.1.4p2,craftguide@1.6.8.2
+[22:15:36] [Netty IO #10/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[22:15:36] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:15:36] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:15:36] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:15:36] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:15:36] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:15:36] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[22:15:36] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[22:15:36] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[22:16:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:16:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:17:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:18:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:19:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:19:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:20:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:21:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:22:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:22:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:23:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:24:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:25:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:25:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:26:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:27:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:28:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:28:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:29:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:30:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:31:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:31:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:32:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:33:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:34:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:34:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:35:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:36:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:37:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:37:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:38:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:39:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:40:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:40:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:41:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:42:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:43:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:43:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:44:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:45:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:46:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:46:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:47:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:48:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:49:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:50:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:51:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:51:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:52:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:53:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:54:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:54:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:55:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:56:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:57:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:58:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:58:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:59:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:00:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:01:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:02:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:02:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:03:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:04:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:05:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:05:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:06:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:07:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:08:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:08:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:11:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:11:10] [Netty IO #13/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:11:10] [Netty IO #13/INFO] [FML/]: Client protocol version 2
+[23:11:10] [Netty IO #13/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[23:11:10] [Netty IO #13/INFO] [FML/]: Client attempting to join with 7 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,Forge@10.13.4.1614,mcp@9.05
+[23:11:10] [Netty IO #13/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:11:10] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:11:10] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:11:10] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:11:10] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:11:10] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[23:11:10] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[23:11:10] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[23:11:10] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:11:16] [Netty IO #14/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:11:16] [Netty IO #14/INFO] [FML/]: Client protocol version 2
+[23:11:16] [Netty IO #14/TRACE] [FML/]: $ModList:12 mods->FMLHandshakeServerState$2:HELLO
+[23:11:16] [Netty IO #14/INFO] [FML/]: Client attempting to join with 12 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,FastCraft@1.25,Forge@10.13.4.1614,mcp@9.05,journeymap@5.1.4p2,craftguide@1.6.8.2
+[23:11:16] [Netty IO #14/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:11:16] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:11:16] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:11:16] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:11:16] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:11:16] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:11:16] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[23:11:16] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[23:11:16] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[23:11:47] [Netty IO #0/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:11:47] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[23:11:47] [Netty IO #0/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:11:47] [Netty IO #0/INFO] [FML/]: Client attempting to join with 8 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,mcp@9.05
+[23:11:47] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:11:47] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:11:47] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:11:47] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:11:47] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:11:47] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:11:47] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[23:11:47] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[23:11:47] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[23:11:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:12:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:13:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:14:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:14:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:15:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:16:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:17:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:17:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:18:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:19:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:20:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:20:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:21:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:22:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:23:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:23:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:24:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:25:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:26:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:26:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:27:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:28:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:29:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:29:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:30:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:31:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:32:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:32:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:33:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:34:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:35:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:35:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:36:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:37:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:38:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:38:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:39:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:40:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:41:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:41:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:42:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:43:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:44:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:44:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:45:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:46:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:47:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:47:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:48:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:49:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:50:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:50:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:51:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:52:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:53:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:53:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:54:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:55:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:56:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:56:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:57:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:57:37] [Netty IO #1/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:57:37] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[23:57:37] [Netty IO #1/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:57:37] [Netty IO #1/INFO] [FML/]: Client attempting to join with 8 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,mcp@9.05
+[23:57:37] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:57:37] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:57:37] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:57:37] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:57:37] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:57:37] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:57:37] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[23:57:37] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[23:57:37] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[23:58:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:59:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:59:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:00:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:01:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:02:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:02:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:03:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:04:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:05:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:05:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:06:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:07:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:08:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:08:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:09:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:10:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:11:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:11:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:12:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:13:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:14:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:14:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:15:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:16:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:17:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:17:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:18:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:19:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:20:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:20:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:21:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:22:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:23:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:23:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:24:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:25:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:26:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:26:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:27:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:28:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:29:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:29:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:30:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:30:58] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:30:58] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[00:30:58] [Netty IO #2/TRACE] [FML/]: $ModList:12 mods->FMLHandshakeServerState$2:HELLO
+[00:30:58] [Netty IO #2/INFO] [FML/]: Client attempting to join with 12 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,FML@7.10.99.99,terrafirmacraft@0.79.29,XaeroWorldMap@1.4.10.1,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,xaerominimap@1.18,mcp@9.05,DamageIndicatorsMod@3.3.2
+[00:30:58] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:30:58] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:30:58] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:30:58] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:30:58] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:30:58] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[00:30:59] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[00:30:59] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[00:30:59] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:31:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:32:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:32:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:33:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:34:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:35:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:35:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:36:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:37:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:38:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:38:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:39:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:40:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:41:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:41:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:42:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:43:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:44:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:44:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:45:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:46:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:47:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:47:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:48:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:49:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:50:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:50:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:51:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:52:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:53:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:53:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:54:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:55:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:56:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:56:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:57:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:58:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:59:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:59:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:00:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:00:51] [Netty IO #13/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: 遠端主機已強制關閉一個現存的連線。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_221]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_221]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_221]
+[01:00:55] [Netty IO #5/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:00:55] [Netty IO #5/INFO] [FML/]: Client protocol version 2
+[01:00:55] [Netty IO #5/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[01:00:55] [Netty IO #5/INFO] [FML/]: Client attempting to join with 7 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,Forge@10.13.4.1614,mcp@9.05
+[01:00:55] [Netty IO #5/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:00:55] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:00:55] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:00:55] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:00:55] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:00:55] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:00:55] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[01:00:55] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[01:00:55] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[01:01:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:02:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:02:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:03:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:04:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:05:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:05:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:06:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:07:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:08:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:08:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:09:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:10:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:11:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:11:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:12:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:13:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:14:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:14:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:15:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:16:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:17:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:17:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:18:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:19:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:20:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:20:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:21:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:22:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:22:55] [Netty IO #7/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:22:55] [Netty IO #7/INFO] [FML/]: Client protocol version 2
+[01:22:55] [Netty IO #7/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[01:22:55] [Netty IO #7/INFO] [FML/]: Client attempting to join with 7 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,Forge@10.13.4.1614,mcp@9.05
+[01:22:55] [Netty IO #7/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:22:55] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:22:55] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:22:55] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:22:55] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:22:55] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:22:55] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[01:22:55] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[01:22:55] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[01:23:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:23:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:24:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:25:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:26:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:26:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:27:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:28:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:29:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:29:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:30:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:31:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:32:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:32:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:33:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:34:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:35:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:35:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:36:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:37:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:38:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:38:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:39:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:40:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:41:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:41:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:42:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:43:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:44:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:44:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:45:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:46:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:47:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:47:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:48:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:49:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:50:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:50:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:51:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:52:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:53:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:53:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:54:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:55:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:56:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:56:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:57:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:58:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:59:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:59:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:00:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:01:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:02:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:02:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:03:20] [Netty IO #8/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:03:20] [Netty IO #8/INFO] [FML/]: Client protocol version 2
+[02:03:20] [Netty IO #8/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[02:03:20] [Netty IO #8/INFO] [FML/]: Client attempting to join with 8 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,FML@7.10.99.99,terrafirmacraft@0.79.29,tfc_coremod@0.79.29,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,mcp@9.05
+[02:03:20] [Netty IO #8/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[02:03:20] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:03:20] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:03:20] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:03:20] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[02:03:20] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCConfig
+[02:03:20] [Server thread/INFO] [TerraFirmaCraft/]: Loading TFCOres
+[02:03:20] [Server thread/INFO] [TerraFirmaCraft/]: Reloading TFCCrafting
+[02:03:20] [Netty IO #8/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:03:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:04:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:05:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:05:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:06:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:07:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:08:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:08:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:09:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:10:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:11:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:11:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:12:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:13:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:14:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:14:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:15:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:16:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:17:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:17:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:18:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:19:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:20:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:20:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:21:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:22:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:23:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:23:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:24:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:25:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:26:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:26:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:34] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[02:27:34] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[02:27:34] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
+[02:27:34] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[02:27:34] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[02:27:34] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
+[02:27:34] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[02:27:34] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[02:27:34] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[02:27:34] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLServerStoppingEvent to mod tfc_coremod
+[02:27:34] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLServerStoppingEvent to mod tfc_coremod
+[02:27:34] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - TFC[coremod] took 0.000s
+[02:27:34] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLServerStoppingEvent to mod terrafirmacraft
+[02:27:34] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLServerStoppingEvent to mod terrafirmacraft
+[02:27:34] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - TerraFirmaCraft took 0.000s
+[02:27:34] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[02:27:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:27:36] [Server thread/INFO] [FML/]: Unloading dimension 0
+[02:27:36] [Server thread/INFO] [FML/]: Unloading dimension -1
+[02:27:36] [Server thread/INFO] [FML/]: Unloading dimension 1
+[02:27:36] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[02:27:36] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[02:27:36] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[02:27:36] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[02:27:36] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[02:27:36] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[02:27:36] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.002s
+[02:27:36] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLModIdMappingEvent to mod tfc_coremod
+[02:27:36] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLModIdMappingEvent to mod tfc_coremod
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - TFC[coremod] took 0.000s
+[02:27:36] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLModIdMappingEvent to mod terrafirmacraft
+[02:27:36] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLModIdMappingEvent to mod terrafirmacraft
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - TerraFirmaCraft took 0.000s
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.004s
+[02:27:36] [Server thread/INFO] [FML/]: Applying holder lookups
+[02:27:36] [Server thread/INFO] [FML/]: Holder lookups applied
+[02:27:36] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[02:27:36] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.001s
+[02:27:36] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[02:27:36] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[02:27:36] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[02:27:36] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[02:27:36] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sending event FMLServerStoppedEvent to mod tfc_coremod
+[02:27:36] [Server thread/TRACE] [tfc_coremod/tfc_coremod]: Sent event FMLServerStoppedEvent to mod tfc_coremod
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - TFC[coremod] took 0.000s
+[02:27:36] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sending event FMLServerStoppedEvent to mod terrafirmacraft
+[02:27:36] [Server thread/TRACE] [terrafirmacraft/terrafirmacraft]: Sent event FMLServerStoppedEvent to mod terrafirmacraft
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - TerraFirmaCraft took 0.000s
+[02:27:36] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s

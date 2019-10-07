@@ -1,0 +1,1344 @@
+[23:02:24] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[23:02:25] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[23:02:25] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_221
+[23:02:25] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[23:02:25] [main/DEBUG] [FML/]: Java library path at launch is C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\ZeroTier\One\;C:\Program Files\Git\cmd;C:\Users\a1225\AppData\Local\Microsoft\WindowsApps;;.
+[23:02:25] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[23:02:25] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[23:02:25] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[23:02:25] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[23:02:25] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[23:02:25] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[23:02:25] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[23:02:25] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[23:02:25] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\a1225\OneDrive\桌面\MC抖M\.
+[23:02:25] [main/DEBUG] [FML/]: Discovering coremods
+[23:02:25] [main/DEBUG] [FML/]: Examining for coremod candidacy BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+[23:02:25] [main/DEBUG] [FML/]: Not found coremod data in BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+[23:02:25] [main/DEBUG] [FML/]: Examining for coremod candidacy gregtech_1.7.10-6.11.12.jar
+[23:02:25] [main/DEBUG] [FML/]: Not found coremod data in gregtech_1.7.10-6.11.12.jar
+[23:02:25] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:02:25] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[23:02:25] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:02:25] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:02:25] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:02:25] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[23:02:25] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[23:02:25] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[23:02:25] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[23:02:25] [main/DEBUG] [FML/]: Injection complete
+[23:02:25] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[23:02:25] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[23:02:26] [main/DEBUG] [FML/]: Read 527 binary patches
+[23:02:26] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:02:26] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[23:02:26] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:02:26] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[23:02:26] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[23:02:26] [main/DEBUG] [FML/]: Injection complete
+[23:02:26] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[23:02:26] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[23:02:26] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[23:02:26] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[23:02:26] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[23:02:27] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[23:02:27] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file C:\Users\a1225\OneDrive\桌面\MC抖M\mods\gregtech_1.7.10-6.11.12.jar!META-INF/gregtech_at.cfg
+
+[23:02:27] [main/DEBUG] [FML/]: Validating minecraft
+[23:02:27] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[23:02:27] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[23:02:27] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[23:02:28] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:02:32] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[23:02:32] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[23:02:33] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[23:02:33] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[23:02:33] [Server thread/DEBUG] [FML/]: File C:\Users\a1225\OneDrive\桌面\MC抖M\config\injectedDependencies.json not found. No dependencies injected
+[23:02:33] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[23:02:33] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[23:02:33] [Server thread/DEBUG] [FML/]: Minecraft is a file at C:\Users\a1225\OneDrive\桌面\MC抖M\forge-1.7.10-10.13.4.1614-1.7.10-universal.jar, loading
+[23:02:33] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[23:02:33] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[23:02:33] [Server thread/INFO] [FML/]: Searching C:\Users\a1225\OneDrive\桌面\MC抖M\mods for mods
+[23:02:33] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+[23:02:33] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file gregtech_1.7.10-6.11.12.jar
+[23:02:33] [Server thread/DEBUG] [FML/]: Examining file forge-1.7.10-10.13.4.1614-1.7.10-universal.jar for potential mods
+[23:02:33] [Server thread/DEBUG] [FML/]: The mod container forge-1.7.10-10.13.4.1614-1.7.10-universal.jar appears to be missing an mcmod.info file
+[23:02:34] [Server thread/DEBUG] [FML/]: Examining file BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar for potential mods
+[23:02:34] [Server thread/TRACE] [FML/]: Located mcmod.info file in file BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+[23:02:34] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (biomesoplenty.BiomesOPlenty) - loading
+[23:02:34] [Server thread/TRACE] [BiomesOPlenty/]: Parsed dependency info : [Forge@[10.13.4.1566,)] [Natura, Forge@[10.13.4.1566,)] []
+[23:02:34] [Server thread/DEBUG] [BiomesOPlenty/]: Attempting to load the file version.properties from BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar to locate a version number for BiomesOPlenty
+[23:02:34] [Server thread/DEBUG] [BiomesOPlenty/]: Found version 2.1.0 for mod BiomesOPlenty in version.properties, using
+[23:02:34] [Server thread/DEBUG] [FML/]: Examining file gregtech_1.7.10-6.11.12.jar for potential mods
+[23:02:34] [Server thread/TRACE] [FML/]: Located mcmod.info file in file gregtech_1.7.10-6.11.12.jar
+[23:02:34] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (gregapi.GT_API) - loading
+[23:02:34] [Server thread/TRACE] [gregapi/]: Parsed dependency info : [gregapi_post] [Micdoodlecore] [gregapi_post, IC2, IC2-Classic-Spmod, IC2NuclearControl, ihl, ForgeMicroblock, funkylocomotion, Baubles, ganyssurface, ganysnether, ganysend, woodstuff, craftguide, CoFHAPI, CoFHAPI|energy, ComputerCraft, OpenComputers, DraconicEvolution, Avaritia, Forestry, MagicBees, BinnieCore, ExtraBees, ExtraTrees, Genetics, Botany, ImmersiveEngineering, UndergroundBiomes, CustomOreGen, PFAAGeologica, mineralogy, candycraftmod, abyssalcraft, soulforest, arsmagica2, Thaumcraft, ForbiddenMagic, Botania, alfheim, witchery, howlingmoon, MoCreatures, GrimoireOfGaia, lycanitesmobs, arcticmobs, demonmobs, desertmobs, forestmobs, freshwatermobs, infernomobs, junglemobs, mountainmobs, plainsmobs, saltwatermobs, shadowmobs, swampmobs, Railcraft, bluepower, ProjRed|Core, ProjRed|Expansion, ProjRed|Integration, ProjRed|Transmission, ProjRed|Transportation, ProjRed|Exploration, ProjRed|Compatibility, ProjRed|Fabrication, ProjRed|Illumination, ProjectE, appliedenergistics2, mo, ThermalFoundation, ThermalDynamics, ThermalExpansion, Ztones, chisel, etfuturum, betterbeginnings, dynamictrees, BiblioCraft, CarpentersBlocks, betterrecords, TwilightForest, erebus, MineFactoryReloaded, PneumaticCraft, ExtraUtilities, ExtraSimple, EnderIO, RandomThings, ActuallyAdditions, harvestcraft, cookingbook, AppleCore, enviromine, magicalcrops, BuildCraft|Transport, BuildCraft|Silicon, BuildCraft|Factory, BuildCraft|Energy, BuildCraft|Robotics, BuildCraft|Core, BuildCraft|Builders, Magneticraft, BigReactors, hbm, DragonAPI, ElectriCraft, ChromatiCraft, ReactorCraft, RotaryCraft, Mekanism, MekanismTools, MekanismGenerators, GalacticraftCore, GalacticraftMars, GalaxySpace, libVulpes, advancedRocketry, thebetweenlands, aether, tropicraft, atum, enhancedbiomes, ExtrabiomesXL, BiomesOPlenty, Highlands, ATG, RTG, RWG, Mystcraft, warpbook, LostBooks, lootbags, eureka, Enchiridion, Enchiridion2, SimpleAchievements, HardcoreQuesting, JABBA, Mariculture, psychedelicraft, BambooMod, fossil, Growthcraft, Growthcraft|Apples, Growthcraft|Bamboo, Growthcraft|Bees, Growthcraft|Cellar, Growthcraft|Fishtrap, Growthcraft|Grapes, Growthcraft|Hops, Growthcraft|Milk, Growthcraft|Rice, weaponmod, openmodularturrets, Techguns, meteors, factorization, Mantle, OpenBlocks, TConstruct, WR-CBE|Core, WR-CBE|Addons, WR-CBE|Logic, voltzengine, mffs, icbmclassic, atomicscience, inventorytweaks, ironbackpacks, journeymap, LogisticsPipes, LunatriusCore, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, neiintegration, openglasses, simplyjetpacks, Stackie, StevesCarts, TiCTooltips, worldedit, McMultipart, OpenPeripheralCore, OpenPeripheralIntegration, OpenPeripheral]
+[23:02:35] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (gregapi.GT_API_Post) - loading
+[23:02:35] [Server thread/TRACE] [gregapi_post/]: Parsed dependency info : [gregapi] [gregapi, Micdoodlecore, IC2, IC2-Classic-Spmod, IC2NuclearControl, ihl, ForgeMicroblock, funkylocomotion, Baubles, ganyssurface, ganysnether, ganysend, woodstuff, craftguide, CoFHAPI, CoFHAPI|energy, ComputerCraft, OpenComputers, DraconicEvolution, Avaritia, Forestry, MagicBees, BinnieCore, ExtraBees, ExtraTrees, Genetics, Botany, ImmersiveEngineering, UndergroundBiomes, CustomOreGen, PFAAGeologica, mineralogy, candycraftmod, abyssalcraft, soulforest, arsmagica2, Thaumcraft, ForbiddenMagic, Botania, alfheim, witchery, howlingmoon, MoCreatures, GrimoireOfGaia, lycanitesmobs, arcticmobs, demonmobs, desertmobs, forestmobs, freshwatermobs, infernomobs, junglemobs, mountainmobs, plainsmobs, saltwatermobs, shadowmobs, swampmobs, Railcraft, bluepower, ProjRed|Core, ProjRed|Expansion, ProjRed|Integration, ProjRed|Transmission, ProjRed|Transportation, ProjRed|Exploration, ProjRed|Compatibility, ProjRed|Fabrication, ProjRed|Illumination, ProjectE, appliedenergistics2, mo, ThermalFoundation, ThermalDynamics, ThermalExpansion, Ztones, chisel, etfuturum, betterbeginnings, dynamictrees, BiblioCraft, CarpentersBlocks, betterrecords, TwilightForest, erebus, MineFactoryReloaded, PneumaticCraft, ExtraUtilities, ExtraSimple, EnderIO, RandomThings, ActuallyAdditions, harvestcraft, cookingbook, AppleCore, enviromine, magicalcrops, BuildCraft|Transport, BuildCraft|Silicon, BuildCraft|Factory, BuildCraft|Energy, BuildCraft|Robotics, BuildCraft|Core, BuildCraft|Builders, Magneticraft, BigReactors, hbm, DragonAPI, ElectriCraft, ChromatiCraft, ReactorCraft, RotaryCraft, Mekanism, MekanismTools, MekanismGenerators, GalacticraftCore, GalacticraftMars, GalaxySpace, libVulpes, advancedRocketry, thebetweenlands, aether, tropicraft, atum, enhancedbiomes, ExtrabiomesXL, BiomesOPlenty, Highlands, ATG, RTG, RWG, Mystcraft, warpbook, LostBooks, lootbags, eureka, Enchiridion, Enchiridion2, SimpleAchievements, HardcoreQuesting, JABBA, Mariculture, psychedelicraft, BambooMod, fossil, Growthcraft, Growthcraft|Apples, Growthcraft|Bamboo, Growthcraft|Bees, Growthcraft|Cellar, Growthcraft|Fishtrap, Growthcraft|Grapes, Growthcraft|Hops, Growthcraft|Milk, Growthcraft|Rice, weaponmod, openmodularturrets, Techguns, meteors, factorization, Mantle, OpenBlocks, TConstruct, WR-CBE|Core, WR-CBE|Addons, WR-CBE|Logic, voltzengine, mffs, icbmclassic, atomicscience, inventorytweaks, ironbackpacks, journeymap, LogisticsPipes, LunatriusCore, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, neiintegration, openglasses, simplyjetpacks, Stackie, StevesCarts, TiCTooltips, worldedit, McMultipart] []
+[23:02:35] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (gregtech.GT6_Main) - loading
+[23:02:35] [Server thread/TRACE] [gregtech/]: Parsed dependency info : [gregapi_post] [gregapi_post] []
+[23:02:35] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 7 mods to load
+[23:02:35] [Server thread/DEBUG] [FML/]: Found API biomesoplenty.api (owned by BiomesOPlenty providing BiomesOPlentyAPI) embedded in BiomesOPlenty
+[23:02:35] [Server thread/DEBUG] [FML/]: Creating API container dummy for API BiomesOPlentyAPI: owner: BiomesOPlenty, dependents: []
+[23:02:35] [Server thread/TRACE] [FML/]: Received a system property request ''
+[23:02:35] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[23:02:35] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[23:02:35] [Server thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1614-1.7.10-universal.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[23:02:35] [Server thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1614-1.7.10-universal.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[23:02:35] [Server thread/DEBUG] [BiomesOPlenty/]: Enabling mod BiomesOPlenty
+[23:02:35] [Server thread/DEBUG] [FML/]: Found translations in BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar [fr_FR, fr_CA, zh_TW, zh_CN, pt_BR, it_IT, en_US, nl_NL, de_DE, ru_RU, da_DK, ja_JP, pl_PL]
+[23:02:35] [Server thread/DEBUG] [gregapi/]: Enabling mod gregapi
+[23:02:35] [Server thread/DEBUG] [FML/]: Found translations in gregtech_1.7.10-6.11.12.jar [en_GB, en_US]
+[23:02:35] [Server thread/DEBUG] [gregapi_post/]: Enabling mod gregapi_post
+[23:02:36] [Server thread/DEBUG] [FML/]: Found translations in gregtech_1.7.10-6.11.12.jar [en_GB, en_US]
+[23:02:36] [Server thread/DEBUG] [gregtech/]: Enabling mod gregtech
+[23:02:36] [Server thread/DEBUG] [FML/]: Found translations in gregtech_1.7.10-6.11.12.jar [en_GB, en_US]
+[23:02:36] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[23:02:36] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[23:02:36] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[23:02:36] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[23:02:36] [Server thread/DEBUG] [FML/]: Mod sorting data
+[23:02:36] [Server thread/DEBUG] [FML/]: 	gregapi(Greg-API:GT6-MC1710): gregtech_1.7.10-6.11.12.jar (required-before:gregapi_post; after:Micdoodlecore; before:IC2; before:IC2-Classic-Spmod; before:IC2NuclearControl; before:ihl; before:ForgeMicroblock; before:funkylocomotion; before:Baubles; before:ganyssurface; before:ganysnether; before:ganysend; before:woodstuff; before:craftguide; before:CoFHAPI; before:CoFHAPI|energy; before:ComputerCraft; before:OpenComputers; before:DraconicEvolution; before:Avaritia; before:Forestry; before:MagicBees; before:BinnieCore; before:ExtraBees; before:ExtraTrees; before:Genetics; before:Botany; before:ImmersiveEngineering; before:UndergroundBiomes; before:CustomOreGen; before:PFAAGeologica; before:mineralogy; before:candycraftmod; before:abyssalcraft; before:soulforest; before:arsmagica2; before:Thaumcraft; before:ForbiddenMagic; before:Botania; before:alfheim; before:witchery; before:howlingmoon; before:MoCreatures; before:GrimoireOfGaia; before:lycanitesmobs; before:arcticmobs; before:demonmobs; before:desertmobs; before:forestmobs; before:freshwatermobs; before:infernomobs; before:junglemobs; before:mountainmobs; before:plainsmobs; before:saltwatermobs; before:shadowmobs; before:swampmobs; before:Railcraft; before:bluepower; before:ProjRed|Core; before:ProjRed|Expansion; before:ProjRed|Integration; before:ProjRed|Transmission; before:ProjRed|Transportation; before:ProjRed|Exploration; before:ProjRed|Compatibility; before:ProjRed|Fabrication; before:ProjRed|Illumination; before:ProjectE; before:appliedenergistics2; before:mo; before:ThermalFoundation; before:ThermalDynamics; before:ThermalExpansion; before:Ztones; before:chisel; before:etfuturum; before:betterbeginnings; before:dynamictrees; before:BiblioCraft; before:CarpentersBlocks; before:betterrecords; before:TwilightForest; before:erebus; before:MineFactoryReloaded; before:PneumaticCraft; before:ExtraUtilities; before:ExtraSimple; before:EnderIO; before:RandomThings; before:ActuallyAdditions; before:harvestcraft; before:cookingbook; before:AppleCore; before:enviromine; before:magicalcrops; before:BuildCraft|Transport; before:BuildCraft|Silicon; before:BuildCraft|Factory; before:BuildCraft|Energy; before:BuildCraft|Robotics; before:BuildCraft|Core; before:BuildCraft|Builders; before:Magneticraft; before:BigReactors; before:hbm; before:DragonAPI; before:ElectriCraft; before:ChromatiCraft; before:ReactorCraft; before:RotaryCraft; before:Mekanism; before:MekanismTools; before:MekanismGenerators; before:GalacticraftCore; before:GalacticraftMars; before:GalaxySpace; before:libVulpes; before:advancedRocketry; before:thebetweenlands; before:aether; before:tropicraft; before:atum; before:enhancedbiomes; before:ExtrabiomesXL; before:BiomesOPlenty; before:Highlands; before:ATG; before:RTG; before:RWG; before:Mystcraft; before:warpbook; before:LostBooks; before:lootbags; before:eureka; before:Enchiridion; before:Enchiridion2; before:SimpleAchievements; before:HardcoreQuesting; before:JABBA; before:Mariculture; before:psychedelicraft; before:BambooMod; before:fossil; before:Growthcraft; before:Growthcraft|Apples; before:Growthcraft|Bamboo; before:Growthcraft|Bees; before:Growthcraft|Cellar; before:Growthcraft|Fishtrap; before:Growthcraft|Grapes; before:Growthcraft|Hops; before:Growthcraft|Milk; before:Growthcraft|Rice; before:weaponmod; before:openmodularturrets; before:Techguns; before:meteors; before:factorization; before:Mantle; before:OpenBlocks; before:TConstruct; before:WR-CBE|Core; before:WR-CBE|Addons; before:WR-CBE|Logic; before:voltzengine; before:mffs; before:icbmclassic; before:atomicscience; before:inventorytweaks; before:ironbackpacks; before:journeymap; before:LogisticsPipes; before:LunatriusCore; before:NEIAddons; before:NEIAddons|Developer; before:NEIAddons|AppEng; before:NEIAddons|Botany; before:NEIAddons|Forestry; before:NEIAddons|CraftingTables; before:NEIAddons|ExNihilo; before:neiintegration; before:openglasses; before:simplyjetpacks; before:Stackie; before:StevesCarts; before:TiCTooltips; before:worldedit; before:McMultipart; before:OpenPeripheralCore; before:OpenPeripheralIntegration; before:OpenPeripheral; )
+[23:02:36] [Server thread/DEBUG] [FML/]: 	BiomesOPlenty(Biomes O' Plenty:2.1.0): BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar (after:Natura; required-after:Forge@[10.13.4.1566,))
+[23:02:36] [Server thread/DEBUG] [FML/]: 	gregapi_post(Greg-API-Post:GT6-MC1710): gregtech_1.7.10-6.11.12.jar (required-after:gregapi; after:Micdoodlecore; after:IC2; after:IC2-Classic-Spmod; after:IC2NuclearControl; after:ihl; after:ForgeMicroblock; after:funkylocomotion; after:Baubles; after:ganyssurface; after:ganysnether; after:ganysend; after:woodstuff; after:craftguide; after:CoFHAPI; after:CoFHAPI|energy; after:ComputerCraft; after:OpenComputers; after:DraconicEvolution; after:Avaritia; after:Forestry; after:MagicBees; after:BinnieCore; after:ExtraBees; after:ExtraTrees; after:Genetics; after:Botany; after:ImmersiveEngineering; after:UndergroundBiomes; after:CustomOreGen; after:PFAAGeologica; after:mineralogy; after:candycraftmod; after:abyssalcraft; after:soulforest; after:arsmagica2; after:Thaumcraft; after:ForbiddenMagic; after:Botania; after:alfheim; after:witchery; after:howlingmoon; after:MoCreatures; after:GrimoireOfGaia; after:lycanitesmobs; after:arcticmobs; after:demonmobs; after:desertmobs; after:forestmobs; after:freshwatermobs; after:infernomobs; after:junglemobs; after:mountainmobs; after:plainsmobs; after:saltwatermobs; after:shadowmobs; after:swampmobs; after:Railcraft; after:bluepower; after:ProjRed|Core; after:ProjRed|Expansion; after:ProjRed|Integration; after:ProjRed|Transmission; after:ProjRed|Transportation; after:ProjRed|Exploration; after:ProjRed|Compatibility; after:ProjRed|Fabrication; after:ProjRed|Illumination; after:ProjectE; after:appliedenergistics2; after:mo; after:ThermalFoundation; after:ThermalDynamics; after:ThermalExpansion; after:Ztones; after:chisel; after:etfuturum; after:betterbeginnings; after:dynamictrees; after:BiblioCraft; after:CarpentersBlocks; after:betterrecords; after:TwilightForest; after:erebus; after:MineFactoryReloaded; after:PneumaticCraft; after:ExtraUtilities; after:ExtraSimple; after:EnderIO; after:RandomThings; after:ActuallyAdditions; after:harvestcraft; after:cookingbook; after:AppleCore; after:enviromine; after:magicalcrops; after:BuildCraft|Transport; after:BuildCraft|Silicon; after:BuildCraft|Factory; after:BuildCraft|Energy; after:BuildCraft|Robotics; after:BuildCraft|Core; after:BuildCraft|Builders; after:Magneticraft; after:BigReactors; after:hbm; after:DragonAPI; after:ElectriCraft; after:ChromatiCraft; after:ReactorCraft; after:RotaryCraft; after:Mekanism; after:MekanismTools; after:MekanismGenerators; after:GalacticraftCore; after:GalacticraftMars; after:GalaxySpace; after:libVulpes; after:advancedRocketry; after:thebetweenlands; after:aether; after:tropicraft; after:atum; after:enhancedbiomes; after:ExtrabiomesXL; after:BiomesOPlenty; after:Highlands; after:ATG; after:RTG; after:RWG; after:Mystcraft; after:warpbook; after:LostBooks; after:lootbags; after:eureka; after:Enchiridion; after:Enchiridion2; after:SimpleAchievements; after:HardcoreQuesting; after:JABBA; after:Mariculture; after:psychedelicraft; after:BambooMod; after:fossil; after:Growthcraft; after:Growthcraft|Apples; after:Growthcraft|Bamboo; after:Growthcraft|Bees; after:Growthcraft|Cellar; after:Growthcraft|Fishtrap; after:Growthcraft|Grapes; after:Growthcraft|Hops; after:Growthcraft|Milk; after:Growthcraft|Rice; after:weaponmod; after:openmodularturrets; after:Techguns; after:meteors; after:factorization; after:Mantle; after:OpenBlocks; after:TConstruct; after:WR-CBE|Core; after:WR-CBE|Addons; after:WR-CBE|Logic; after:voltzengine; after:mffs; after:icbmclassic; after:atomicscience; after:inventorytweaks; after:ironbackpacks; after:journeymap; after:LogisticsPipes; after:LunatriusCore; after:NEIAddons; after:NEIAddons|Developer; after:NEIAddons|AppEng; after:NEIAddons|Botany; after:NEIAddons|Forestry; after:NEIAddons|CraftingTables; after:NEIAddons|ExNihilo; after:neiintegration; after:openglasses; after:simplyjetpacks; after:Stackie; after:StevesCarts; after:TiCTooltips; after:worldedit; after:McMultipart)
+[23:02:36] [Server thread/DEBUG] [FML/]: 	gregtech(GregTech:GT6-MC1710): gregtech_1.7.10-6.11.12.jar (required-after:gregapi_post)
+[23:02:36] [Server thread/DEBUG] [FML/]: 	BiomesOPlentyAPI(API: BiomesOPlentyAPI:1.0.0): BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar ()
+[23:02:36] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[23:02:36] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[23:02:36] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
+[23:02:36] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[23:02:36] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[23:02:36] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[23:02:36] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.10.99.99)
+[23:02:36] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, BiomesOPlenty, gregapi, gregapi_post, gregtech] at CLIENT
+[23:02:36] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, BiomesOPlenty, gregapi, gregapi_post, gregtech] at SERVER
+[23:02:36] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[23:02:36] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.322s
+[23:02:36] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[23:02:36] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[23:02:36] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[23:02:36] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.13.4.1614)
+[23:02:36] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[23:02:36] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.010s
+[23:02:36] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLConstructionEvent to mod gregapi
+[23:02:38] [Server thread/TRACE] [FML/gregapi]: Mod gregapi is using network checker : Accepting version GT6-MC1710
+[23:02:38] [Server thread/TRACE] [FML/gregapi]: Testing mod gregapi to verify it accepts its own version in a remote connection
+[23:02:38] [Server thread/TRACE] [FML/gregapi]: The mod gregapi accepts its own version (GT6-MC1710)
+[23:02:38] [Server thread/DEBUG] [FML/gregapi]: Attempting to inject @SidedProxy classes into gregapi
+[23:02:38] [Server thread/DEBUG] [FML/gregapi]: Skipping proxy injection for gregtech.GT6_Main.gt_proxy since it is not for mod gregapi
+[23:02:38] [Server thread/DEBUG] [FML/gregapi]: Skipping proxy injection for gregapi.api.example.Example_Mod.PROXY since it is not for mod gregapi
+[23:02:38] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLConstructionEvent to mod gregapi
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Greg-API took 2.144s
+[23:02:38] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLConstructionEvent to mod BiomesOPlenty
+[23:02:38] [Server thread/TRACE] [FML/BiomesOPlenty]: Mod BiomesOPlenty is using network checker : Accepting version 2.1.0
+[23:02:38] [Server thread/TRACE] [FML/BiomesOPlenty]: Testing mod BiomesOPlenty to verify it accepts its own version in a remote connection
+[23:02:38] [Server thread/TRACE] [FML/BiomesOPlenty]: The mod BiomesOPlenty accepts its own version (2.1.0)
+[23:02:38] [Server thread/DEBUG] [FML/BiomesOPlenty]: Attempting to inject @SidedProxy classes into BiomesOPlenty
+[23:02:38] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLConstructionEvent to mod BiomesOPlenty
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Biomes O' Plenty took 0.015s
+[23:02:38] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLConstructionEvent to mod gregapi_post
+[23:02:38] [Server thread/TRACE] [FML/gregapi_post]: Mod gregapi_post is using network checker : Accepting version GT6-MC1710
+[23:02:38] [Server thread/TRACE] [FML/gregapi_post]: Testing mod gregapi_post to verify it accepts its own version in a remote connection
+[23:02:38] [Server thread/TRACE] [FML/gregapi_post]: The mod gregapi_post accepts its own version (GT6-MC1710)
+[23:02:38] [Server thread/DEBUG] [FML/gregapi_post]: Attempting to inject @SidedProxy classes into gregapi_post
+[23:02:38] [Server thread/DEBUG] [FML/gregapi_post]: Skipping proxy injection for gregtech.GT6_Main.gt_proxy since it is not for mod gregapi_post
+[23:02:38] [Server thread/DEBUG] [FML/gregapi_post]: Skipping proxy injection for gregapi.GT_API.api_proxy since it is not for mod gregapi_post
+[23:02:38] [Server thread/DEBUG] [FML/gregapi_post]: Skipping proxy injection for gregapi.api.example.Example_Mod.PROXY since it is not for mod gregapi_post
+[23:02:38] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLConstructionEvent to mod gregapi_post
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Greg-API-Post took 0.023s
+[23:02:38] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLConstructionEvent to mod gregtech
+[23:02:38] [Server thread/TRACE] [FML/gregtech]: Mod gregtech is using network checker : Accepting version GT6-MC1710
+[23:02:38] [Server thread/TRACE] [FML/gregtech]: Testing mod gregtech to verify it accepts its own version in a remote connection
+[23:02:38] [Server thread/TRACE] [FML/gregtech]: The mod gregtech accepts its own version (GT6-MC1710)
+[23:02:38] [Server thread/DEBUG] [FML/gregtech]: Attempting to inject @SidedProxy classes into gregtech
+[23:02:38] [Server thread/DEBUG] [FML/gregtech]: Skipping proxy injection for gregapi.GT_API.api_proxy since it is not for mod gregtech
+[23:02:38] [Server thread/DEBUG] [FML/gregtech]: Skipping proxy injection for gregapi.api.example.Example_Mod.PROXY since it is not for mod gregtech
+[23:02:38] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLConstructionEvent to mod gregtech
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: Construction - GregTech took 0.092s
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 2.607s
+[23:02:38] [Server thread/DEBUG] [FML/]: Mod signature data
+[23:02:38] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[23:02:38] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	7.10.99.99)	forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[23:02:38] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	10.13.4.1614)	forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[23:02:38] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[23:02:38] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[23:02:38] [Server thread/DEBUG] [FML/]: 		gregapi	(Greg-API	GT6-MC1710)	gregtech_1.7.10-6.11.12.jar
+[23:02:38] [Server thread/DEBUG] [FML/]: 		BiomesOPlenty	(Biomes O' Plenty	2.1.0)	BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+[23:02:38] [Server thread/DEBUG] [FML/]: 		gregapi_post	(Greg-API-Post	GT6-MC1710)	gregtech_1.7.10-6.11.12.jar
+[23:02:38] [Server thread/DEBUG] [FML/]: 		gregtech	(GregTech	GT6-MC1710)	gregtech_1.7.10-6.11.12.jar
+[23:02:38] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[23:02:38] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[23:02:38] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[23:02:38] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[23:02:38] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[23:02:38] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[23:02:38] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[23:02:38] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.001s
+[23:02:38] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[23:02:38] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[23:02:38] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[23:02:38] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.039s
+[23:02:38] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLPreInitializationEvent to mod gregapi
+[23:02:39] [Server thread/TRACE] [FML/gregapi]: Automatically registered mod gregapi entity gt.MetaBlockFallingEntity as gregapi.gt.MetaBlockFallingEntity
+[23:02:40] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: Saving Configs took 0.134s
+[23:02:40] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLPreInitializationEvent to mod gregapi
+[23:02:40] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Greg-API took 1.983s
+[23:02:40] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLPreInitializationEvent to mod BiomesOPlenty
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity dart as BiomesOPlenty.dart
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity mudball as BiomesOPlenty.mudball
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity JungleSpider as BiomesOPlenty.JungleSpider
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity Rosester as BiomesOPlenty.Rosester
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity Glob as BiomesOPlenty.Glob
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity Phantom as BiomesOPlenty.Phantom
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity Wasp as BiomesOPlenty.Wasp
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity Bird as BiomesOPlenty.Bird
+[23:02:41] [Server thread/TRACE] [FML/BiomesOPlenty]: Automatically registered mod BiomesOPlenty entity Pixie as BiomesOPlenty.Pixie
+[23:02:41] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLPreInitializationEvent to mod BiomesOPlenty
+[23:02:41] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Biomes O' Plenty took 0.802s
+[23:02:41] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLPreInitializationEvent to mod gregapi_post
+[23:02:41] [Server thread/DEBUG] [FML/gregapi_post]: Bar Finished: Saving Configs took 0.203s
+[23:02:41] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLPreInitializationEvent to mod gregapi_post
+[23:02:41] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Greg-API-Post took 0.315s
+[23:02:41] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLPreInitializationEvent to mod gregtech
+[23:02:41] [Server thread/TRACE] [FML/gregtech]: Automatically registered mod gregtech entity GT_Entity_Arrow as gregtech.GT_Entity_Arrow
+[23:02:41] [Server thread/TRACE] [FML/gregtech]: Automatically registered mod gregtech entity GT_Entity_Arrow_Potion as gregtech.GT_Entity_Arrow_Potion
+[23:02:44] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: Loading Compat (PreInit) took 0.000s
+[23:02:44] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: Saving Configs took 0.139s
+[23:02:44] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLPreInitializationEvent to mod gregtech
+[23:02:44] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - GregTech took 2.283s
+[23:02:44] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 5.423s
+[23:02:44] [Server thread/INFO] [FML/]: Applying holder lookups
+[23:02:44] [Server thread/INFO] [FML/]: Holder lookups applied
+[23:02:44] [Server thread/INFO] [FML/]: Injecting itemstacks
+[23:02:44] [Server thread/INFO] [FML/]: Itemstack injection complete
+[23:02:45] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLInitializationEvent to mod gregapi
+[23:02:46] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: Before Init took 1.805s
+[23:02:48] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: OreDict took 1.390s
+[23:02:48] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: Saving Configs took 0.175s
+[23:02:48] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLInitializationEvent to mod gregapi
+[23:02:48] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Greg-API took 3.439s
+[23:02:48] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[23:02:48] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[23:02:48] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.003s
+[23:02:48] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[23:02:48] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[23:02:48] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[23:02:48] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[23:02:48] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[23:02:48] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[23:02:48] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLInitializationEvent to mod BiomesOPlenty
+[23:02:48] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLInitializationEvent to mod BiomesOPlenty
+[23:02:48] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Biomes O' Plenty took 0.021s
+[23:02:48] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLInitializationEvent to mod gregapi_post
+[23:02:48] [Server thread/DEBUG] [FML/gregapi_post]: Bar Finished: After Init took 0.135s
+[23:02:48] [Server thread/DEBUG] [FML/gregapi_post]: Bar Finished: Saving Configs took 0.161s
+[23:02:48] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLInitializationEvent to mod gregapi_post
+[23:02:48] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Greg-API-Post took 0.330s
+[23:02:48] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLInitializationEvent to mod gregtech
+[23:02:52] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: Loading Compat (Init) took 0.000s
+[23:02:52] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: After Init took 0.007s
+[23:02:52] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: Saving Configs took 0.150s
+[23:02:52] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLInitializationEvent to mod gregtech
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - GregTech took 3.734s
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 7.528s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod gregapi
+[23:02:52] [Server thread/TRACE] [gregapi/gregapi]: Sending event IMCEvent to mod gregapi
+[23:02:52] [Server thread/TRACE] [gregapi/gregapi]: Sent event IMCEvent to mod gregapi
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Greg-API took 0.003s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[23:02:52] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[23:02:52] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.001s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[23:02:52] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[23:02:52] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[23:02:52] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[23:02:52] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod BiomesOPlenty
+[23:02:52] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event IMCEvent to mod BiomesOPlenty
+[23:02:52] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event IMCEvent to mod BiomesOPlenty
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Biomes O' Plenty took 0.000s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod gregapi_post
+[23:02:52] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event IMCEvent to mod gregapi_post
+[23:02:52] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event IMCEvent to mod gregapi_post
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Greg-API-Post took 0.001s
+[23:02:52] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod gregtech
+[23:02:52] [Server thread/TRACE] [gregtech/gregtech]: Sending event IMCEvent to mod gregtech
+[23:02:52] [Server thread/TRACE] [gregtech/gregtech]: Sent event IMCEvent to mod gregtech
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - GregTech took 0.000s
+[23:02:52] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.006s
+[23:02:52] [Server thread/INFO] [FML/]: Injecting itemstacks
+[23:02:52] [Server thread/INFO] [FML/]: Itemstack injection complete
+[23:02:52] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLPostInitializationEvent to mod gregapi
+[23:02:52] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: Before PostInit took 0.213s
+[23:02:57] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: OreDict took 4.278s
+[23:02:57] [Server thread/DEBUG] [FML/gregapi]: Bar Finished: Saving Configs took 0.132s
+[23:02:57] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLPostInitializationEvent to mod gregapi
+[23:02:57] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Greg-API took 4.692s
+[23:02:57] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[23:02:57] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[23:02:57] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[23:02:57] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[23:02:57] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[23:02:57] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[23:02:57] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[23:02:57] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[23:02:57] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.001s
+[23:02:57] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLPostInitializationEvent to mod BiomesOPlenty
+[23:02:57] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLPostInitializationEvent to mod BiomesOPlenty
+[23:02:57] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Biomes O' Plenty took 0.006s
+[23:02:57] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLPostInitializationEvent to mod gregapi_post
+[23:02:57] [Server thread/DEBUG] [FML/gregapi_post]: Bar Finished: After PostInit took 0.000s
+[23:02:57] [Server thread/DEBUG] [FML/gregapi_post]: Bar Finished: Saving Configs took 0.126s
+[23:02:57] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLPostInitializationEvent to mod gregapi_post
+[23:02:57] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Greg-API-Post took 0.135s
+[23:02:57] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLPostInitializationEvent to mod gregtech
+[23:03:04] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: Loading Compat (PostInit) took 7.205s
+[23:03:04] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: After PostInit took 0.000s
+[23:03:04] [Server thread/DEBUG] [FML/gregtech]: Bar Finished: Saving Configs took 0.162s
+[23:03:04] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLPostInitializationEvent to mod gregtech
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - GregTech took 7.388s
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 12.223s
+[23:03:04] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLLoadCompleteEvent to mod gregapi
+[23:03:04] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLLoadCompleteEvent to mod gregapi
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Greg-API took 0.000s
+[23:03:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[23:03:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[23:03:04] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[23:03:04] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[23:03:04] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[23:03:04] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   17: RecipeEntry("Before", UNKNOWN, )
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   16: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   15: RecipeEntry("gregtech:shaped", SHAPED, gregapi.recipes.AdvancedCraftingShaped) Before: minecraft:shapeless After: minecraft:shaped
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("BiomesOPlenty:biomeessenceRecipe", SHAPELESS, biomesoplenty.common.recipes.BiomeEssenceRecipe) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("gregtech:shapeless", SHAPELESS, gregapi.recipes.AdvancedCraftingShapeless) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("gregtech:1ToY", SHAPELESS, gregapi.recipes.AdvancedCrafting1ToY) After: gregtech:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("gregtech:XToY", SHAPELESS, gregapi.recipes.AdvancedCraftingXToY) After: gregtech:1ToY
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("gregtech:tool", SHAPELESS, gregapi.recipes.AdvancedCraftingTool) After: gregtech:1ToY
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[23:03:04] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[23:03:04] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[23:03:04] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.035s
+[23:03:04] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLLoadCompleteEvent to mod BiomesOPlenty
+[23:03:04] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLLoadCompleteEvent to mod BiomesOPlenty
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Biomes O' Plenty took 0.000s
+[23:03:04] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLLoadCompleteEvent to mod gregapi_post
+[23:03:04] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLLoadCompleteEvent to mod gregapi_post
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Greg-API-Post took 0.000s
+[23:03:04] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLLoadCompleteEvent to mod gregtech
+[23:03:04] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLLoadCompleteEvent to mod gregtech
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - GregTech took 0.000s
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.037s
+[23:03:04] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[23:03:04] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[23:03:04] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[23:03:04] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 7 mods
+[23:03:04] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLServerAboutToStartEvent to mod gregapi
+[23:03:04] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLServerAboutToStartEvent to mod gregapi
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Greg-API took 0.001s
+[23:03:04] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[23:03:04] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[23:03:04] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[23:03:04] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[23:03:04] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[23:03:04] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.004s
+[23:03:04] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLServerAboutToStartEvent to mod BiomesOPlenty
+[23:03:04] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLServerAboutToStartEvent to mod BiomesOPlenty
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Biomes O' Plenty took 0.001s
+[23:03:04] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLServerAboutToStartEvent to mod gregapi_post
+[23:03:04] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLServerAboutToStartEvent to mod gregapi_post
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Greg-API-Post took 0.002s
+[23:03:04] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerAboutToStartEvent to mod gregtech
+[23:03:04] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerAboutToStartEvent to mod gregtech
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - GregTech took 0.000s
+[23:03:04] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.007s
+[23:03:04] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[23:03:04] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[23:03:04] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[23:03:04] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLModIdMappingEvent to mod gregapi
+[23:03:05] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLModIdMappingEvent to mod gregapi
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Greg-API took 0.083s
+[23:03:05] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[23:03:05] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[23:03:05] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[23:03:05] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.001s
+[23:03:05] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[23:03:05] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.108s
+[23:03:05] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLModIdMappingEvent to mod BiomesOPlenty
+[23:03:05] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLModIdMappingEvent to mod BiomesOPlenty
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Biomes O' Plenty took 0.000s
+[23:03:05] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLModIdMappingEvent to mod gregapi_post
+[23:03:05] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLModIdMappingEvent to mod gregapi_post
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Greg-API-Post took 0.000s
+[23:03:05] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLModIdMappingEvent to mod gregtech
+[23:03:05] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLModIdMappingEvent to mod gregtech
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - GregTech took 0.000s
+[23:03:05] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.193s
+[23:03:05] [Server thread/INFO] [FML/]: Applying holder lookups
+[23:03:05] [Server thread/INFO] [FML/]: Holder lookups applied
+[23:03:05] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:pomegranatesmoothie has been selected as the default fluid for pomegranatesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.nightvision.long has been selected as the default fluid for potion.nightvision.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.yellow has been selected as the default fluid for cfoam.yellow
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxsoulful has been selected as the default fluid for molten.waxsoulful
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:carbonmonoxide has been selected as the default fluid for carbonmonoxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:propylene has been selected as the default fluid for propylene
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cherrysmoothie has been selected as the default fluid for cherrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.lithiumchloride has been selected as the default fluid for molten.lithiumchloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.tallow has been selected as the default fluid for molten.tallow
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicepear has been selected as the default fluid for binnie.juicepear
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.osmiumelemental has been selected as the default fluid for molten.osmiumelemental
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:neutralmatter has been selected as the default fluid for neutralmatter
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicepeach has been selected as the default fluid for binnie.juicepeach
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.nightvision.lingering has been selected as the default fluid for potion.nightvision.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:uuamplifier has been selected as the default fluid for uuamplifier
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:fruitsmoothie has been selected as the default fluid for fruitsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mercury has been selected as the default fluid for mercury
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.bronze has been selected as the default fluid for molten.bronze
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.pink has been selected as the default fluid for dye.watermixed.pink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chlorine has been selected as the default fluid for chlorine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.mashgrain has been selected as the default fluid for binnie.mashgrain
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.constantan has been selected as the default fluid for molten.constantan
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:glenmckenner has been selected as the default fluid for glenmckenner
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.lithiumchlorate has been selected as the default fluid for molten.lithiumchlorate
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.goldenapplejuice has been selected as the default fluid for potion.goldenapplejuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:purplegrapesmoothie has been selected as the default fluid for purplegrapesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.latex has been selected as the default fluid for molten.latex
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grcmilk.milk has been selected as the default fluid for grcmilk.milk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.thick has been selected as the default fluid for potion.thick
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.titanium has been selected as the default fluid for molten.titanium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.strong.splash has been selected as the default fluid for potion.regen.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.strong.lingering has been selected as the default fluid for potion.speed.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.calcite has been selected as the default fluid for molten.calcite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:glue has been selected as the default fluid for glue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nitrogenmonoxide has been selected as the default fluid for nitrogenmonoxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chocolatemilk has been selected as the default fluid for chocolatemilk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2pahoehoelava has been selected as the default fluid for ic2pahoehoelava
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ricevinegar has been selected as the default fluid for ricevinegar
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxparaffin has been selected as the default fluid for molten.waxparaffin
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.black has been selected as the default fluid for dye.flower.black
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.tinalloy has been selected as the default fluid for molten.tinalloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.hslasteel has been selected as the default fluid for molten.hslasteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:glyceryl has been selected as the default fluid for glyceryl
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:biomass has been selected as the default fluid for biomass
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grcmilk.cream has been selected as the default fluid for grcmilk.cream
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.osmiridium has been selected as the default fluid for molten.osmiridium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.magenta has been selected as the default fluid for cfoam.magenta
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:neon has been selected as the default fluid for neon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:strawberryjuice has been selected as the default fluid for strawberryjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chloroplatinicacid has been selected as the default fluid for chloroplatinicacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.nikolinealloy has been selected as the default fluid for molten.nikolinealloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.strong has been selected as the default fluid for potion.regen.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.long has been selected as the default fluid for potion.speed.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.long.splash has been selected as the default fluid for potion.strength.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.red has been selected as the default fluid for cfoam.red
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.redstone has been selected as the default fluid for molten.redstone
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:redvitriol has been selected as the default fluid for redvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:coconutmilk has been selected as the default fluid for coconutmilk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:slime has been selected as the default fluid for slime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.silicon has been selected as the default fluid for molten.silicon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.fireresistance.long.lingering has been selected as the default fluid for potion.fireresistance.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.jump.lingering has been selected as the default fluid for potion.jump.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.lithiumperchlorate has been selected as the default fluid for molten.lithiumperchlorate
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.cyan has been selected as the default fluid for dye.chemical.cyan
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.electrotinealloy has been selected as the default fluid for molten.electrotinealloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:netherair has been selected as the default fluid for netherair
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ethylene has been selected as the default fluid for ethylene
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.manganesechloride has been selected as the default fluid for molten.manganesechloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.signalum has been selected as the default fluid for molten.signalum
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.lightgray has been selected as the default fluid for dye.flower.lightgray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:apricotsmoothie has been selected as the default fluid for apricotsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.cyan has been selected as the default fluid for dye.flower.cyan
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:canevinegar has been selected as the default fluid for canevinegar
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.pigiron has been selected as the default fluid for molten.pigiron
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hempoil has been selected as the default fluid for hempoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.vanadiumsteel has been selected as the default fluid for molten.vanadiumsteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.damage has been selected as the default fluid for potion.damage
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2coolant has been selected as the default fluid for ic2coolant
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.whiskeywheat has been selected as the default fluid for binnie.whiskeywheat
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.tungstentrioxide has been selected as the default fluid for molten.tungstentrioxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hydrochloricacid has been selected as the default fluid for hydrochloricacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.kreknorite has been selected as the default fluid for molten.kreknorite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:pomegranatejuice has been selected as the default fluid for pomegranatejuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.magenta has been selected as the default fluid for dye.watermixed.magenta
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:tea has been selected as the default fluid for tea
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.red has been selected as the default fluid for dye.flower.red
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.green has been selected as the default fluid for cfoam.owned.green
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:juice has been selected as the default fluid for juice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hydrogenfluoride has been selected as the default fluid for hydrogenfluoride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.titaniumgold has been selected as the default fluid for molten.titaniumgold
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:gas_natural_gas has been selected as the default fluid for gas_natural_gas
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.dragonblood has been selected as the default fluid for potion.dragonblood
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.lingering has been selected as the default fluid for potion.strength.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.health has been selected as the default fluid for potion.health
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.ciderapple has been selected as the default fluid for binnie.ciderapple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.damage.strong.lingering has been selected as the default fluid for potion.damage.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.lemonade has been selected as the default fluid for potion.lemonade
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxamnesic has been selected as the default fluid for molten.waxamnesic
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.solderingalloy has been selected as the default fluid for molten.solderingalloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.lead has been selected as the default fluid for molten.lead
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.weakness.splash has been selected as the default fluid for potion.weakness.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:soulsandoil has been selected as the default fluid for soulsandoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.orange has been selected as the default fluid for dye.flower.orange
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.winered has been selected as the default fluid for binnie.winered
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:aquaregia has been selected as the default fluid for aquaregia
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.gray has been selected as the default fluid for dye.flower.gray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.redalloy has been selected as the default fluid for molten.redalloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.tungsten has been selected as the default fluid for molten.tungsten
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.wroughtiron has been selected as the default fluid for molten.wroughtiron
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:enderair has been selected as the default fluid for enderair
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.lumium has been selected as the default fluid for molten.lumium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.hematite has been selected as the default fluid for molten.hematite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.rubber has been selected as the default fluid for molten.rubber
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.wax has been selected as the default fluid for molten.wax
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.splash has been selected as the default fluid for potion.regen.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.meteorite has been selected as the default fluid for molten.meteorite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.white has been selected as the default fluid for cfoam.owned.white
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:pineapplesmoothie has been selected as the default fluid for pineapplesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid BiomesOPlenty:honey has been selected as the default fluid for honey
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.yellow has been selected as the default fluid for cfoam.owned.yellow
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:bromine has been selected as the default fluid for bromine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:saltwater has been selected as the default fluid for saltwater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.brown has been selected as the default fluid for dye.watermixed.brown
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nutoil has been selected as the default fluid for nutoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:sulfurtrioxide has been selected as the default fluid for sulfurtrioxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.green has been selected as the default fluid for dye.watermixed.green
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:astatine has been selected as the default fluid for astatine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.enderiumbase has been selected as the default fluid for molten.enderiumbase
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.lightblue has been selected as the default fluid for cfoam.lightblue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hydrogenperoxide has been selected as the default fluid for hydrogenperoxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.bluealloy has been selected as the default fluid for molten.bluealloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicelemon has been selected as the default fluid for binnie.juicelemon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.potassiumcarbonate has been selected as the default fluid for molten.potassiumcarbonate
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cyanvitriol has been selected as the default fluid for cyanvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.cyan has been selected as the default fluid for cfoam.owned.cyan
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.manganese has been selected as the default fluid for molten.manganese
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:error has been selected as the default fluid for error
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dragonbreath has been selected as the default fluid for dragonbreath
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:waterdirty has been selected as the default fluid for waterdirty
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.fireresistance.long.splash has been selected as the default fluid for potion.fireresistance.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxplant has been selected as the default fluid for molten.waxplant
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.lightblue has been selected as the default fluid for dye.watermixed.lightblue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.meteoriciron has been selected as the default fluid for molten.meteoriciron
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.green has been selected as the default fluid for cfoam.green
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:heliumneon has been selected as the default fluid for heliumneon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.batteryalloy has been selected as the default fluid for molten.batteryalloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grapesmoothie has been selected as the default fluid for grapesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.black has been selected as the default fluid for dye.chemical.black
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.white has been selected as the default fluid for cfoam.white
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:carbontrioxide has been selected as the default fluid for carbontrioxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.lime has been selected as the default fluid for cfoam.owned.lime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hexafluorosilicicacid has been selected as the default fluid for hexafluorosilicicacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicelime has been selected as the default fluid for binnie.juicelime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:peachsmoothie has been selected as the default fluid for peachsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.slowness.splash has been selected as the default fluid for potion.slowness.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:papayajuice has been selected as the default fluid for papayajuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.slowness.long has been selected as the default fluid for potion.slowness.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.blackbronze has been selected as the default fluid for molten.blackbronze
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mangosmoothie has been selected as the default fluid for mangosmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.pink has been selected as the default fluid for cfoam.pink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:currantjuice has been selected as the default fluid for currantjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.invisibility.long.splash has been selected as the default fluid for potion.invisibility.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mineralsoda has been selected as the default fluid for mineralsoda
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.molybdenum has been selected as the default fluid for molten.molybdenum
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:petrol has been selected as the default fluid for petrol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.fireresistance.long has been selected as the default fluid for potion.fireresistance.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:disulfuricacid has been selected as the default fluid for disulfuricacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:indigo has been selected as the default fluid for indigo
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:orangesmoothie has been selected as the default fluid for orangesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:helium3 has been selected as the default fluid for helium3
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:strawberrysmoothie has been selected as the default fluid for strawberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:maplesyrup has been selected as the default fluid for maplesyrup
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.brown has been selected as the default fluid for dye.chemical.brown
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.draconium has been selected as the default fluid for molten.draconium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ricardosanchez has been selected as the default fluid for ricardosanchez
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:linoil has been selected as the default fluid for linoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.gray has been selected as the default fluid for dye.chemical.gray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.hepatizon has been selected as the default fluid for molten.hepatizon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:blackvitriol has been selected as the default fluid for blackvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen has been selected as the default fluid for potion.regen
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:blueberryjuice has been selected as the default fluid for blueberryjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.redsteel has been selected as the default fluid for molten.redsteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.goldencider has been selected as the default fluid for potion.goldencider
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.purple has been selected as the default fluid for dye.flower.purple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:argon has been selected as the default fluid for argon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:blaze has been selected as the default fluid for blaze
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:vitriolofclay has been selected as the default fluid for vitriolofclay
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.white has been selected as the default fluid for dye.chemical.white
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:sulfurdioxide has been selected as the default fluid for sulfurdioxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:figsmoothie has been selected as the default fluid for figsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.knightmetal has been selected as the default fluid for molten.knightmetal
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potatojuice has been selected as the default fluid for potatojuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.lightgray has been selected as the default fluid for dye.chemical.lightgray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:vinegar has been selected as the default fluid for vinegar
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mcguffium has been selected as the default fluid for mcguffium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:carbondioxide has been selected as the default fluid for carbondioxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.cafeaulait has been selected as the default fluid for potion.cafeaulait
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cranberrysmoothie has been selected as the default fluid for cranberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.vodka has been selected as the default fluid for binnie.vodka
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.damage.strong.splash has been selected as the default fluid for potion.damage.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.tungstensteel has been selected as the default fluid for molten.tungstensteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:liquid_light_oil has been selected as the default fluid for liquid_light_oil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.ferrouschloride has been selected as the default fluid for molten.ferrouschloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.steel has been selected as the default fluid for molten.steel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.red has been selected as the default fluid for cfoam.owned.red
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.long.splash has been selected as the default fluid for potion.regen.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:sweettea has been selected as the default fluid for sweettea
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hydrosulfuricacid has been selected as the default fluid for hydrosulfuricacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.tin has been selected as the default fluid for molten.tin
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.blue has been selected as the default fluid for dye.watermixed.blue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:sunfloweroil has been selected as the default fluid for sunfloweroil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.meteoricsteel has been selected as the default fluid for molten.meteoricsteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.waterbreathing has been selected as the default fluid for potion.waterbreathing
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.enderpearl has been selected as the default fluid for molten.enderpearl
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:peanutbutter has been selected as the default fluid for peanutbutter
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:latex has been selected as the default fluid for latex
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2constructionfoam has been selected as the default fluid for ic2constructionfoam
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.long.lingering has been selected as the default fluid for potion.strength.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.mashcorn has been selected as the default fluid for binnie.mashcorn
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.ironwood has been selected as the default fluid for molten.ironwood
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:fierytears has been selected as the default fluid for fierytears
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.green has been selected as the default fluid for dye.flower.green
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.blue has been selected as the default fluid for cfoam.owned.blue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.damascussteel has been selected as the default fluid for molten.damascussteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.splash has been selected as the default fluid for potion.poison.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.red has been selected as the default fluid for dye.chemical.red
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:rottendrink has been selected as the default fluid for rottendrink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:bioethanol has been selected as the default fluid for bioethanol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.lingering has been selected as the default fluid for potion.poison.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceolive has been selected as the default fluid for binnie.juiceolive
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.pink has been selected as the default fluid for dye.flower.pink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.lightblue has been selected as the default fluid for cfoam.owned.lightblue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.germanium has been selected as the default fluid for molten.germanium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.mithril has been selected as the default fluid for molten.mithril
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.health.strong.splash has been selected as the default fluid for potion.health.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hotfryingoil has been selected as the default fluid for hotfryingoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.strong has been selected as the default fluid for potion.poison.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2hotcoolant has been selected as the default fluid for ic2hotcoolant
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mayo has been selected as the default fluid for mayo
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.diablosauce has been selected as the default fluid for potion.diablosauce
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.cobalt has been selected as the default fluid for molten.cobalt
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.rumdark has been selected as the default fluid for binnie.rumdark
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.jump has been selected as the default fluid for potion.jump
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.health.lingering has been selected as the default fluid for potion.health.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:lemonsmoothie has been selected as the default fluid for lemonsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.cavejohnsonsgrenadejuice has been selected as the default fluid for potion.cavejohnsonsgrenadejuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.invisibility.long.lingering has been selected as the default fluid for potion.invisibility.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.damage.lingering has been selected as the default fluid for potion.damage.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:limesmoothie has been selected as the default fluid for limesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.electrum has been selected as the default fluid for molten.electrum
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.yellow has been selected as the default fluid for dye.flower.yellow
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:limoncello has been selected as the default fluid for limoncello
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.yellow has been selected as the default fluid for dye.chemical.yellow
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:diesel has been selected as the default fluid for diesel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.black has been selected as the default fluid for cfoam.owned.black
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.sake has been selected as the default fluid for potion.sake
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.blacksteel has been selected as the default fluid for molten.blacksteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:purpledrink has been selected as the default fluid for purpledrink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicecranberry has been selected as the default fluid for binnie.juicecranberry
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.magnesiumchloride has been selected as the default fluid for molten.magnesiumchloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed has been selected as the default fluid for potion.speed
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:soymilk has been selected as the default fluid for soymilk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:applevinegar has been selected as the default fluid for applevinegar
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicewhitegrape has been selected as the default fluid for binnie.juicewhitegrape
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:elderberrysmoothie has been selected as the default fluid for elderberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:whitegrapesmoothie has been selected as the default fluid for whitegrapesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:papayasmoothie has been selected as the default fluid for papayasmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.mashrye has been selected as the default fluid for binnie.mashrye
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.purple has been selected as the default fluid for cfoam.owned.purple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grc.applecider0 has been selected as the default fluid for grc.applecider0
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:currantsmoothie has been selected as the default fluid for currantsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.cryolite has been selected as the default fluid for molten.cryolite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2distilledwater has been selected as the default fluid for ic2distilledwater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.asphalt has been selected as the default fluid for molten.asphalt
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.gray has been selected as the default fluid for cfoam.gray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.calciumchloride has been selected as the default fluid for molten.calciumchloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chocolatecream has been selected as the default fluid for chocolatecream
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:milk has been selected as the default fluid for milk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mangojuice has been selected as the default fluid for mangojuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.copper has been selected as the default fluid for molten.copper
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:krypton has been selected as the default fluid for krypton
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.fierysteel has been selected as the default fluid for molten.fierysteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:maplesap has been selected as the default fluid for maplesap
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicebanana has been selected as the default fluid for binnie.juicebanana
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grc.honey has been selected as the default fluid for grc.honey
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.yellowlimonite has been selected as the default fluid for molten.yellowlimonite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.strong.lingering has been selected as the default fluid for potion.strength.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.brown has been selected as the default fluid for cfoam.owned.brown
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.magenta has been selected as the default fluid for dye.flower.magenta
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:coconutcream has been selected as the default fluid for coconutcream
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.black has been selected as the default fluid for dye.watermixed.black
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:heliumplasma has been selected as the default fluid for heliumplasma
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.magenta has been selected as the default fluid for dye.chemical.magenta
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:wine has been selected as the default fluid for wine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.winepineapple has been selected as the default fluid for binnie.winepineapple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chloroauricacid has been selected as the default fluid for chloroauricacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.orange has been selected as the default fluid for cfoam.orange
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:medicine.laxative has been selected as the default fluid for medicine.laxative
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.vanadium has been selected as the default fluid for molten.vanadium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicegrapefruit has been selected as the default fluid for binnie.juicegrapefruit
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.alumite has been selected as the default fluid for molten.alumite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.basalticmineralsand has been selected as the default fluid for molten.basalticmineralsand
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:plastic has been selected as the default fluid for plastic
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.magnalium has been selected as the default fluid for molten.magnalium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:stannicchloride has been selected as the default fluid for stannicchloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cactuswater has been selected as the default fluid for cactuswater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.cheese has been selected as the default fluid for molten.cheese
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.pink has been selected as the default fluid for dye.chemical.pink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:beer has been selected as the default fluid for beer
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxrefractory has been selected as the default fluid for molten.waxrefractory
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.voidmetal has been selected as the default fluid for molten.voidmetal
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ketchup has been selected as the default fluid for ketchup
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:sulfuricacid has been selected as the default fluid for sulfuricacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:seedoil has been selected as the default fluid for seedoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.leninade has been selected as the default fluid for potion.leninade
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid BiomesOPlenty:hell_blood has been selected as the default fluid for hell_blood
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.strong.lingering has been selected as the default fluid for potion.poison.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:xenon has been selected as the default fluid for xenon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceorange has been selected as the default fluid for binnie.juiceorange
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.purple has been selected as the default fluid for cfoam.purple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:air has been selected as the default fluid for air
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.draconiumawakened has been selected as the default fluid for molten.draconiumawakened
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:persimmonjuice has been selected as the default fluid for persimmonjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:martianvitriol has been selected as the default fluid for martianvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:soda has been selected as the default fluid for soda
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:seawater has been selected as the default fluid for seawater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceelderberry has been selected as the default fluid for binnie.juiceelderberry
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:glass has been selected as the default fluid for glass
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nitricacid has been selected as the default fluid for nitricacid
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:reedwater has been selected as the default fluid for reedwater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.sodiumcarbonate has been selected as the default fluid for molten.sodiumcarbonate
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:raspberryjuice has been selected as the default fluid for raspberryjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.teslatinealloy has been selected as the default fluid for molten.teslatinealloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:bawls has been selected as the default fluid for bawls
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:greenvitriol has been selected as the default fluid for greenvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:gooseberrysmoothie has been selected as the default fluid for gooseberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.bluesteel has been selected as the default fluid for molten.bluesteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.strong.splash has been selected as the default fluid for potion.speed.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.ambrosia has been selected as the default fluid for potion.ambrosia
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.lingering has been selected as the default fluid for potion.speed.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:pumpkinjuice has been selected as the default fluid for pumpkinjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.iridium has been selected as the default fluid for molten.iridium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.long.lingering has been selected as the default fluid for potion.poison.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:melonsmoothie has been selected as the default fluid for melonsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.slowness.long.splash has been selected as the default fluid for potion.slowness.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nutella has been selected as the default fluid for nutella
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.bismuth has been selected as the default fluid for molten.bismuth
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2biomass has been selected as the default fluid for ic2biomass
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.platinum has been selected as the default fluid for molten.platinum
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.coffee has been selected as the default fluid for potion.coffee
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.fireresistance has been selected as the default fluid for potion.fireresistance
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.waterbreathing.splash has been selected as the default fluid for potion.waterbreathing.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxbee has been selected as the default fluid for molten.waxbee
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.lightblue has been selected as the default fluid for dye.flower.lightblue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.orange has been selected as the default fluid for dye.chemical.orange
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.dressing has been selected as the default fluid for potion.dressing
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:darkbeer has been selected as the default fluid for darkbeer
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.zinc has been selected as the default fluid for molten.zinc
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.orange has been selected as the default fluid for cfoam.owned.orange
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.moonstone has been selected as the default fluid for molten.moonstone
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.invar has been selected as the default fluid for molten.invar
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:gooseberryjuice has been selected as the default fluid for gooseberryjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:short.mead has been selected as the default fluid for short.mead
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:blackberrysmoothie has been selected as the default fluid for blackberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.rutile has been selected as the default fluid for molten.rutile
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.aluminiumfluoride has been selected as the default fluid for molten.aluminiumfluoride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:starfruitjuice has been selected as the default fluid for starfruitjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:holywater has been selected as the default fluid for holywater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicepineapple has been selected as the default fluid for binnie.juicepineapple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.magnesiumcarbonate has been selected as the default fluid for molten.magnesiumcarbonate
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.jump.strong has been selected as the default fluid for potion.jump.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.invisibility.splash has been selected as the default fluid for potion.invisibility.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.lightgray has been selected as the default fluid for dye.watermixed.lightgray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:plumsmoothie has been selected as the default fluid for plumsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.chocolate has been selected as the default fluid for molten.chocolate
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nitrogenplasma has been selected as the default fluid for nitrogenplasma
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:liquid_medium_oil has been selected as the default fluid for liquid_medium_oil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:squidink has been selected as the default fluid for squidink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.waterbreathing.lingering has been selected as the default fluid for potion.waterbreathing.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.mineralwater has been selected as the default fluid for potion.mineralwater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.long has been selected as the default fluid for potion.poison.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength has been selected as the default fluid for potion.strength
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.aluminium has been selected as the default fluid for molten.aluminium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.pink has been selected as the default fluid for cfoam.owned.pink
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:medicine.heal has been selected as the default fluid for medicine.heal
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.neodymium has been selected as the default fluid for molten.neodymium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:redgrapesmoothie has been selected as the default fluid for redgrapesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.splash has been selected as the default fluid for potion.strength.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grapejuice has been selected as the default fluid for grapejuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.awkward has been selected as the default fluid for potion.awkward
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.waterbreathing.long.splash has been selected as the default fluid for potion.waterbreathing.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.jump.strong.splash has been selected as the default fluid for potion.jump.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.ilmenite has been selected as the default fluid for molten.ilmenite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.enderium has been selected as the default fluid for molten.enderium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.idunsapplejuice has been selected as the default fluid for potion.idunsapplejuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:liquidoxygen has been selected as the default fluid for liquidoxygen
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.cyan has been selected as the default fluid for cfoam.cyan
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:pearsmoothie has been selected as the default fluid for pearsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.teslatite has been selected as the default fluid for molten.teslatite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.darkchocolatemilk has been selected as the default fluid for potion.darkchocolatemilk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.weakness.lingering has been selected as the default fluid for potion.weakness.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.marsstone has been selected as the default fluid for molten.marsstone
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nitrogen has been selected as the default fluid for nitrogen
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.jump.strong.lingering has been selected as the default fluid for potion.jump.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.diabolosauce has been selected as the default fluid for potion.diabolosauce
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.weakness.long.lingering has been selected as the default fluid for potion.weakness.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nitrogendioxide has been selected as the default fluid for nitrogendioxide
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.invisibility has been selected as the default fluid for potion.invisibility
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:oil has been selected as the default fluid for oil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.nightvision.long.splash has been selected as the default fluid for potion.nightvision.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.lightgray has been selected as the default fluid for cfoam.lightgray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.damage.splash has been selected as the default fluid for potion.damage.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.annealedcopper has been selected as the default fluid for molten.annealedcopper
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.brown has been selected as the default fluid for cfoam.brown
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:blueberrysmoothie has been selected as the default fluid for blueberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.brass has been selected as the default fluid for molten.brass
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:mushroomsoup has been selected as the default fluid for mushroomsoup
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.alcopops has been selected as the default fluid for potion.alcopops
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.sugar has been selected as the default fluid for molten.sugar
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.slowness has been selected as the default fluid for potion.slowness
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.antimony has been selected as the default fluid for molten.antimony
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.osmium has been selected as the default fluid for molten.osmium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.spectreiron has been selected as the default fluid for molten.spectreiron
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ammonia has been selected as the default fluid for ammonia
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:butane has been selected as the default fluid for butane
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.stainlesssteel has been selected as the default fluid for molten.stainlesssteel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.jump.splash has been selected as the default fluid for potion.jump.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceapple has been selected as the default fluid for binnie.juiceapple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:fluorine has been selected as the default fluid for fluorine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.long.splash has been selected as the default fluid for potion.poison.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:steam has been selected as the default fluid for steam
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:beetjuice has been selected as the default fluid for beetjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.fireresistance.lingering has been selected as the default fluid for potion.fireresistance.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:starfruitsmoothie has been selected as the default fluid for starfruitsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.purple has been selected as the default fluid for dye.chemical.purple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.nickel has been selected as the default fluid for molten.nickel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.aredrite has been selected as the default fluid for molten.aredrite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.darkcoffee has been selected as the default fluid for potion.darkcoffee
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chillysauce has been selected as the default fluid for chillysauce
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.long has been selected as the default fluid for potion.strength.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:kerosine has been selected as the default fluid for kerosine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.mundane has been selected as the default fluid for potion.mundane
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.lime has been selected as the default fluid for dye.watermixed.lime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ice has been selected as the default fluid for ice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.spacestone has been selected as the default fluid for molten.spacestone
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:tritium has been selected as the default fluid for tritium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.white has been selected as the default fluid for dye.watermixed.white
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:bluevitriol has been selected as the default fluid for bluevitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.health.strong.lingering has been selected as the default fluid for potion.health.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.silver has been selected as the default fluid for molten.silver
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:kiwijuice has been selected as the default fluid for kiwijuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.strong.lingering has been selected as the default fluid for potion.regen.strong.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:fishoil has been selected as the default fluid for fishoil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:glycerol has been selected as the default fluid for glycerol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.notchesbrew has been selected as the default fluid for potion.notchesbrew
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.nikolite has been selected as the default fluid for molten.nikolite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:deuterium has been selected as the default fluid for deuterium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:melonjuice has been selected as the default fluid for melonjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.blue has been selected as the default fluid for dye.chemical.blue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.fireresistance.splash has been selected as the default fluid for potion.fireresistance.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:rainbowsap has been selected as the default fluid for rainbowsap
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grapefruitsmoothie has been selected as the default fluid for grapefruitsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.aluminiumbrass has been selected as the default fluid for molten.aluminiumbrass
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.diablosauce.strong has been selected as the default fluid for potion.diablosauce.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.waterbreathing.long.lingering has been selected as the default fluid for potion.waterbreathing.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.redstonealloy has been selected as the default fluid for molten.redstonealloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.weakness.long.splash has been selected as the default fluid for potion.weakness.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.brown has been selected as the default fluid for dye.flower.brown
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.thaumium has been selected as the default fluid for molten.thaumium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.orange has been selected as the default fluid for dye.watermixed.orange
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:methane has been selected as the default fluid for methane
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:oxygen has been selected as the default fluid for oxygen
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.strong has been selected as the default fluid for potion.speed.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.blue has been selected as the default fluid for dye.flower.blue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.cobaltbrass has been selected as the default fluid for molten.cobaltbrass
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceplum has been selected as the default fluid for binnie.juiceplum
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.ultimet has been selected as the default fluid for molten.ultimet
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.chromium has been selected as the default fluid for molten.chromium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:blackberryjuice has been selected as the default fluid for blackberryjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid BiomesOPlenty:poison has been selected as the default fluid for poison
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:sluicejuice has been selected as the default fluid for sluicejuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.darkthaumium has been selected as the default fluid for molten.darkthaumium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.health.strong has been selected as the default fluid for potion.health.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.waterbreathing.long has been selected as the default fluid for potion.waterbreathing.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceapricot has been selected as the default fluid for binnie.juiceapricot
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.lightblue has been selected as the default fluid for dye.chemical.lightblue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.lingering has been selected as the default fluid for potion.regen.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:fieryblood has been selected as the default fluid for fieryblood
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.yellow has been selected as the default fluid for dye.watermixed.yellow
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.brownlimonite has been selected as the default fluid for molten.brownlimonite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.alumina has been selected as the default fluid for molten.alumina
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.pyrolusite has been selected as the default fluid for molten.pyrolusite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.nightvision.splash has been selected as the default fluid for potion.nightvision.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:spoiledmilk has been selected as the default fluid for spoiledmilk
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.slowness.lingering has been selected as the default fluid for potion.slowness.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.darkcafeaulait has been selected as the default fluid for potion.darkcafeaulait
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.gray has been selected as the default fluid for dye.watermixed.gray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.manyullyn has been selected as the default fluid for molten.manyullyn
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:nitrofuel has been selected as the default fluid for nitrofuel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:bananasmoothie has been selected as the default fluid for bananasmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.lime has been selected as the default fluid for cfoam.lime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.weakness.long has been selected as the default fluid for potion.weakness.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.damage.strong has been selected as the default fluid for potion.damage.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.slowness.long.lingering has been selected as the default fluid for potion.slowness.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.long.splash has been selected as the default fluid for potion.speed.long.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.purplealloy has been selected as the default fluid for molten.purplealloy
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.graniticmineralsand has been selected as the default fluid for molten.graniticmineralsand
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.black has been selected as the default fluid for cfoam.black
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.stone has been selected as the default fluid for molten.stone
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ricewater has been selected as the default fluid for ricewater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:for.honey has been selected as the default fluid for for.honey
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.red has been selected as the default fluid for dye.watermixed.red
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.tainted has been selected as the default fluid for potion.tainted
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.purple has been selected as the default fluid for dye.watermixed.purple
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.magnesium has been selected as the default fluid for molten.magnesium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.gray has been selected as the default fluid for cfoam.owned.gray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.angmallen has been selected as the default fluid for molten.angmallen
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:honeydew has been selected as the default fluid for honeydew
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:wheathopsmash has been selected as the default fluid for wheathopsmash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicecarrot has been selected as the default fluid for binnie.juicecarrot
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.nightvision.long.lingering has been selected as the default fluid for potion.nightvision.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:titaniumtetrachloride has been selected as the default fluid for titaniumtetrachloride
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.lime has been selected as the default fluid for dye.chemical.lime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.weakness has been selected as the default fluid for potion.weakness
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hopsmash has been selected as the default fluid for hopsmash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:concrete has been selected as the default fluid for concrete
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.fluorite has been selected as the default fluid for molten.fluorite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:radon has been selected as the default fluid for radon
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:icetea has been selected as the default fluid for icetea
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.watermixed.cyan has been selected as the default fluid for dye.watermixed.cyan
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:liquid_extra_heavy_oil has been selected as the default fluid for liquid_extra_heavy_oil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.laitaucafe has been selected as the default fluid for potion.laitaucafe
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.gold has been selected as the default fluid for molten.gold
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ic2uumatter has been selected as the default fluid for ic2uumatter
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juiceredgrape has been selected as the default fluid for binnie.juiceredgrape
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.strong has been selected as the default fluid for potion.strength.strong
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.chemical.green has been selected as the default fluid for dye.chemical.green
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:fuel has been selected as the default fluid for fuel
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:lubricant has been selected as the default fluid for lubricant
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.invisibility.long has been selected as the default fluid for potion.invisibility.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.syrmorite has been selected as the default fluid for molten.syrmorite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.bismuthbronze has been selected as the default fluid for molten.bismuthbronze
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:creosote has been selected as the default fluid for creosote
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.rumwhite has been selected as the default fluid for binnie.rumwhite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:applesmoothie has been selected as the default fluid for applesmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.iron has been selected as the default fluid for molten.iron
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grc.grapewine0 has been selected as the default fluid for grc.grapewine0
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:goldencarrotjuice has been selected as the default fluid for goldencarrotjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.white has been selected as the default fluid for dye.flower.white
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicetomato has been selected as the default fluid for binnie.juicetomato
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.nightvision has been selected as the default fluid for potion.nightvision
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:pinkvitriol has been selected as the default fluid for pinkvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.sulfur has been selected as the default fluid for molten.sulfur
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.long.lingering has been selected as the default fluid for potion.speed.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:dye.flower.lime has been selected as the default fluid for dye.flower.lime
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.midasium has been selected as the default fluid for molten.midasium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.speed.splash has been selected as the default fluid for potion.speed.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.juicecherry has been selected as the default fluid for binnie.juicecherry
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:chargedmatter has been selected as the default fluid for chargedmatter
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:persimmonsmoothie has been selected as the default fluid for persimmonsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:hydrogen has been selected as the default fluid for hydrogen
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.magnetite has been selected as the default fluid for molten.magnetite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.astralsilver has been selected as the default fluid for molten.astralsilver
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.strength.strong.splash has been selected as the default fluid for potion.strength.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.mashwheat has been selected as the default fluid for binnie.mashwheat
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:binnie.winewhite has been selected as the default fluid for binnie.winewhite
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.invisibility.lingering has been selected as the default fluid for potion.invisibility.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.health.splash has been selected as the default fluid for potion.health.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.long.lingering has been selected as the default fluid for potion.regen.long.lingering
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.lightgray has been selected as the default fluid for cfoam.owned.lightgray
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:propane has been selected as the default fluid for propane
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:raspberrysmoothie has been selected as the default fluid for raspberrysmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:figjuice has been selected as the default fluid for figjuice
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:grayvitriol has been selected as the default fluid for grayvitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.hsss has been selected as the default fluid for molten.hsss
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison has been selected as the default fluid for potion.poison
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.regen.long has been selected as the default fluid for potion.regen.long
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.poison.strong.splash has been selected as the default fluid for potion.poison.strong.splash
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:ectoplasm has been selected as the default fluid for ectoplasm
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.octine has been selected as the default fluid for molten.octine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.blue has been selected as the default fluid for cfoam.blue
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:whitevitriol has been selected as the default fluid for whitevitriol
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:helium has been selected as the default fluid for helium
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:liquid_heavy_oil has been selected as the default fluid for liquid_heavy_oil
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:coconutsmoothie has been selected as the default fluid for coconutsmoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:kiwismoothie has been selected as the default fluid for kiwismoothie
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:cfoam.owned.magenta has been selected as the default fluid for cfoam.owned.magenta
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.hssg has been selected as the default fluid for molten.hssg
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.hsse has been selected as the default fluid for molten.hsse
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.electrotine has been selected as the default fluid for molten.electrotine
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.waxmagic has been selected as the default fluid for molten.waxmagic
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:potion.hotsauce has been selected as the default fluid for potion.hotsauce
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:riverwater has been selected as the default fluid for riverwater
+[23:03:05] [Server thread/DEBUG] [FML/]: The fluid gregtech:molten.ferrovanadium has been selected as the default fluid for molten.ferrovanadium
+[23:03:05] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5766ce0d)
+[23:03:05] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5766ce0d)
+[23:03:05] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5766ce0d)
+[23:03:07] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLServerStartingEvent to mod gregapi
+[23:03:07] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLServerStartingEvent to mod gregapi
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Greg-API took 0.000s
+[23:03:07] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[23:03:07] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[23:03:07] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[23:03:07] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[23:03:07] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[23:03:07] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.004s
+[23:03:07] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLServerStartingEvent to mod BiomesOPlenty
+[23:03:07] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLServerStartingEvent to mod BiomesOPlenty
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Biomes O' Plenty took 0.000s
+[23:03:07] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLServerStartingEvent to mod gregapi_post
+[23:03:07] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLServerStartingEvent to mod gregapi_post
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Greg-API-Post took 0.001s
+[23:03:07] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStartingEvent to mod gregtech
+[23:03:07] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStartingEvent to mod gregtech
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - GregTech took 0.001s
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.006s
+[23:03:07] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLServerStartedEvent to mod gregapi
+[23:03:07] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLServerStartedEvent to mod gregapi
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Greg-API took 0.084s
+[23:03:07] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[23:03:07] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[23:03:07] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[23:03:07] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[23:03:07] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[23:03:07] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[23:03:07] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLServerStartedEvent to mod BiomesOPlenty
+[23:03:07] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLServerStartedEvent to mod BiomesOPlenty
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Biomes O' Plenty took 0.000s
+[23:03:07] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLServerStartedEvent to mod gregapi_post
+[23:03:07] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLServerStartedEvent to mod gregapi_post
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Greg-API-Post took 0.000s
+[23:03:07] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStartedEvent to mod gregtech
+[23:03:07] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStartedEvent to mod gregtech
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - GregTech took 0.001s
+[23:03:07] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.086s
+[23:03:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:04:08] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:04:08] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[23:04:08] [Netty IO #2/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:04:08] [Netty IO #2/INFO] [FML/]: Client attempting to join with 8 mods : gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:04:08] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:04:08] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:04:08] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:04:08] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:04:08] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:04:08] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:04:10] [Netty IO #3/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:04:10] [Netty IO #3/INFO] [FML/]: Client protocol version 2
+[23:04:10] [Netty IO #3/TRACE] [FML/]: $ModList:15 mods->FMLHandshakeServerState$2:HELLO
+[23:04:10] [Netty IO #3/INFO] [FML/]: Client attempting to join with 15 mods : NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,FastCraft@1.25,gtneioreplugin@1.0.4,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,BiomesOPlenty@2.1.0,CodeChickenCore@1.0.7.47,gregtech@GT6-MC1710,mcp@9.05,journeymap@5.1.4p2,craftguide@1.6.8.2
+[23:04:10] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:04:10] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:04:10] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:04:10] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:04:10] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:04:10] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:04:27] [Netty IO #5/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:04:27] [Netty IO #5/INFO] [FML/]: Client protocol version 2
+[23:04:28] [Netty IO #5/TRACE] [FML/]: $ModList:15 mods->FMLHandshakeServerState$2:HELLO
+[23:04:28] [Netty IO #5/INFO] [FML/]: Client attempting to join with 15 mods : NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,FastCraft@1.25,gtneioreplugin@1.0.4,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,BiomesOPlenty@2.1.0,CodeChickenCore@1.0.7.47,gregtech@GT6-MC1710,mcp@9.05,journeymap@5.1.4p2,craftguide@1.6.8.2
+[23:04:28] [Netty IO #5/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:04:28] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:04:28] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:04:28] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:04:28] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:04:28] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:04:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:05:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:06:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:06:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:07:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:08:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:10:07] [Netty IO #6/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:10:07] [Netty IO #6/INFO] [FML/]: Client protocol version 2
+[23:10:07] [Netty IO #6/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:10:07] [Netty IO #6/INFO] [FML/]: Client attempting to join with 8 mods : gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:10:07] [Netty IO #6/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:10:07] [Netty IO #6/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:10:07] [Netty IO #6/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:10:07] [Netty IO #6/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:10:08] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:10:08] [Netty IO #6/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:10:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:11:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:12:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:12:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:13:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:14:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:15:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:15:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:16:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:17:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:18:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:18:52] [Netty IO #7/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:18:52] [Netty IO #7/INFO] [FML/]: Client protocol version 2
+[23:18:52] [Netty IO #7/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:18:52] [Netty IO #7/INFO] [FML/]: Client attempting to join with 8 mods : gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:18:52] [Netty IO #7/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:18:52] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:18:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:18:52] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:18:52] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:18:52] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:18:53] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:19:17] [Netty IO #9/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:19:17] [Netty IO #9/INFO] [FML/]: Client protocol version 2
+[23:19:17] [Netty IO #9/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[23:19:17] [Netty IO #9/INFO] [FML/]: Client attempting to join with 7 mods : gregapi@GT6-MC1710,FML@7.10.99.99,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:19:17] [Netty IO #9/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:19:17] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:19:17] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:19:17] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:19:17] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:19:17] [Netty IO #9/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:19:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:20:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:21:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:21:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:22:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:23:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:24:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:24:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:25:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:26:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:27:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:27:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:28:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:29:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:30:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:30:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:31:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:32:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:32:29] [Netty IO #10/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:32:29] [Netty IO #10/INFO] [FML/]: Client protocol version 2
+[23:32:29] [Netty IO #10/TRACE] [FML/]: $ModList:10 mods->FMLHandshakeServerState$2:HELLO
+[23:32:29] [Netty IO #10/INFO] [FML/]: Client attempting to join with 10 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:32:29] [Netty IO #10/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:32:29] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:32:29] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:32:29] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:32:29] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:32:29] [Netty IO #10/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:33:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:33:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:34:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:34:49] [Netty IO #12/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:34:49] [Netty IO #12/INFO] [FML/]: Client protocol version 2
+[23:34:49] [Netty IO #12/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:34:49] [Netty IO #12/INFO] [FML/]: Client attempting to join with 8 mods : gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:34:49] [Netty IO #12/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:34:50] [Netty IO #12/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:34:50] [Netty IO #12/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:34:50] [Netty IO #12/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:34:50] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:34:50] [Netty IO #12/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:35:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:36:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:36:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:37:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:38:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:39:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:39:47] [Netty IO #13/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:39:47] [Netty IO #13/INFO] [FML/]: Client protocol version 2
+[23:39:47] [Netty IO #13/TRACE] [FML/]: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:39:47] [Netty IO #13/INFO] [FML/]: Client attempting to join with 8 mods : gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:39:47] [Netty IO #13/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:39:47] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:39:47] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:39:47] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:39:47] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:39:47] [Netty IO #13/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:39:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:40:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:41:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:41:38] [Netty IO #14/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:41:38] [Netty IO #14/INFO] [FML/]: Client protocol version 2
+[23:41:38] [Netty IO #14/TRACE] [FML/]: $ModList:10 mods->FMLHandshakeServerState$2:HELLO
+[23:41:38] [Netty IO #14/INFO] [FML/]: Client attempting to join with 10 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:41:38] [Netty IO #14/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:41:38] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:41:39] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:41:39] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:41:39] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:41:39] [Netty IO #14/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:42:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:42:28] [Netty IO #15/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:42:28] [Netty IO #15/INFO] [FML/]: Client protocol version 2
+[23:42:28] [Netty IO #15/TRACE] [FML/]: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[23:42:28] [Netty IO #15/INFO] [FML/]: Client attempting to join with 14 mods : NotEnoughItems@1.0.5.120,InputFix@1.7.10-v5,gregapi@GT6-MC1710,FML@7.10.99.99,inventorytweaks@1.59-dev-152-cf6e263,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,BiomesOPlenty@2.1.0,CodeChickenCore@1.0.7.47,XaeroWorldMap@1.4.10.1,gregtech@GT6-MC1710,xaerominimap@1.18,mcp@9.05,DamageIndicatorsMod@3.3.2
+[23:42:28] [Netty IO #15/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:42:28] [Netty IO #15/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:42:29] [Netty IO #15/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:42:29] [Netty IO #15/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:42:29] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:42:29] [Netty IO #15/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:42:38] [Netty IO #9/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: 遠端主機已強制關閉一個現存的連線。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_221]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_221]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_221]
+[23:42:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:43:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:44:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:45:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:45:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:46:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:47:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:48:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:48:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:49:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:50:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:51:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:51:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:52:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:53:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:54:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:55:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:55:45] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:55:55] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:55:55] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[23:55:55] [Netty IO #2/TRACE] [FML/]: $ModList:9 mods->FMLHandshakeServerState$2:HELLO
+[23:55:55] [Netty IO #2/INFO] [FML/]: Client attempting to join with 9 mods : CodeChickenCore@1.0.7.47,NotEnoughItems@1.0.5.120,gregapi@GT6-MC1710,FML@7.10.99.99,Forge@10.13.4.1614,gregapi_post@GT6-MC1710,gregtech@GT6-MC1710,mcp@9.05,BiomesOPlenty@2.1.0
+[23:55:55] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:55:55] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:55:55] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:55:55] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:55:55] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:55:55] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:56:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:57:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:58:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:58:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:59:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:00:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:01:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:02:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:03:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:03:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:04:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:05:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:06:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:06:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:07:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:08:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:09:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:09:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:10:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:11:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:11:49] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLServerStoppingEvent to mod gregapi
+[00:11:49] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLServerStoppingEvent to mod gregapi
+[00:11:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Greg-API took 0.001s
+[00:11:49] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[00:11:49] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[00:11:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
+[00:11:49] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[00:11:49] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[00:11:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[00:11:49] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[00:11:49] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[00:11:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[00:11:49] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLServerStoppingEvent to mod BiomesOPlenty
+[00:11:49] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLServerStoppingEvent to mod BiomesOPlenty
+[00:11:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Biomes O' Plenty took 0.000s
+[00:11:49] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLServerStoppingEvent to mod gregapi_post
+[00:11:49] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLServerStoppingEvent to mod gregapi_post
+[00:11:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Greg-API-Post took 0.001s
+[00:11:49] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStoppingEvent to mod gregtech
+[00:11:51] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStoppingEvent to mod gregtech
+[00:11:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - GregTech took 1.213s
+[00:11:51] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 1.216s
+[00:11:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:11:53] [Server thread/INFO] [FML/]: Unloading dimension 0
+[00:11:53] [Server thread/INFO] [FML/]: Unloading dimension -1
+[00:11:53] [Server thread/INFO] [FML/]: Unloading dimension 1
+[00:11:53] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[00:11:53] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLModIdMappingEvent to mod gregapi
+[00:11:53] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLModIdMappingEvent to mod gregapi
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Greg-API took 0.190s
+[00:11:53] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[00:11:53] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[00:11:53] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[00:11:53] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[00:11:53] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[00:11:53] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.068s
+[00:11:53] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLModIdMappingEvent to mod BiomesOPlenty
+[00:11:53] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLModIdMappingEvent to mod BiomesOPlenty
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Biomes O' Plenty took 0.000s
+[00:11:53] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLModIdMappingEvent to mod gregapi_post
+[00:11:53] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLModIdMappingEvent to mod gregapi_post
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Greg-API-Post took 0.000s
+[00:11:53] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLModIdMappingEvent to mod gregtech
+[00:11:53] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLModIdMappingEvent to mod gregtech
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - GregTech took 0.000s
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.259s
+[00:11:53] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:11:53] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:11:53] [Server thread/TRACE] [gregapi/gregapi]: Sending event FMLServerStoppedEvent to mod gregapi
+[00:11:53] [Server thread/TRACE] [gregapi/gregapi]: Sent event FMLServerStoppedEvent to mod gregapi
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Greg-API took 0.014s
+[00:11:53] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[00:11:53] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[00:11:53] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[00:11:53] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[00:11:53] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[00:11:53] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[00:11:53] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sending event FMLServerStoppedEvent to mod BiomesOPlenty
+[00:11:53] [Server thread/TRACE] [BiomesOPlenty/BiomesOPlenty]: Sent event FMLServerStoppedEvent to mod BiomesOPlenty
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Biomes O' Plenty took 0.000s
+[00:11:53] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sending event FMLServerStoppedEvent to mod gregapi_post
+[00:11:53] [Server thread/TRACE] [gregapi_post/gregapi_post]: Sent event FMLServerStoppedEvent to mod gregapi_post
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Greg-API-Post took 0.000s
+[00:11:53] [Server thread/TRACE] [gregtech/gregtech]: Sending event FMLServerStoppedEvent to mod gregtech
+[00:11:53] [Server thread/TRACE] [gregtech/gregtech]: Sent event FMLServerStoppedEvent to mod gregtech
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - GregTech took 0.000s
+[00:11:53] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.015s
